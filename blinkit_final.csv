@@ -1,0 +1,1000 @@
+Customer_ID,Customer_Name,Age,City,Area,Tenure_Months,Items_Bought,Preferred_Category,Orders_Per_Month,Avg_Order_Value,Monthly_Spend,Payment_Method,Wallet_Usage,UPI_Usage,COD_Usage,Distance_km,Delivery_Time_Avg,Late_Delivery_Count,Avg_Rating,Complaints_Count,Refund_Amount,High_Value_Customer
+C000001,Meera,36,Pune,Tambaram,51,Cleaning Supplies,Electronics,2,5193,10386,Wallet,23272,64997,2278,0.54,66,1,1.5,8,12515,0
+C000002,Sneha,61,Mumbai,OMR,45,Frozen Foods,Beverages,19,6642,126198,COD,22661,59982,7273,3.06,19,5,2.5,8,12460,0
+C000003,Ishaan,57,Mumbai,Perungudi,16,Snacks and Beverages,Fruits,37,2555,94535,NetBanking,13954,78540,1510,14.95,68,9,3.7,2,15548,0
+C000004,Priya,32,Chennai,Tambaram,19,Electronics Accessories,Personal Care,2,2925,5850,UPI,5094,23783,14414,6.19,67,14,1.5,4,8802,0
+C000005,Karthik,38,Delhi,T Nagar,38,Electronics Accessories,Bakery,7,1189,8323,NetBanking,28775,69008,15209,7.34,10,15,1.1,6,7036,0
+C000006,Ishaan,39,Mumbai,Adyar,27,Fruits and Vegetables,Personal Care,4,2878,11512,COD,14685,75452,12212,11.94,21,8,4.9,8,9736,0
+C000007,Meera,33,Hyderabad,Perungudi,49,Frozen Foods,Dairy,24,1320,31680,NetBanking,1130,57346,3205,9.75,67,14,4.7,1,16324,0
+C000008,Ira,22,Mumbai,Velachery,26,"Rice, Dal, Cooking Oil",Personal Care,32,3781,120992,Wallet,16717,1619,15597,1.36,57,8,4.7,7,18122,0
+C000009,Aishwarya,34,Hyderabad,Perungudi,45,Cleaning Supplies,Dairy,13,5759,74867,UPI,26942,38489,15575,1.52,25,3,3.7,5,8818,0
+C000010,Karthik,64,Bangalore,Perungudi,36,Electronics Accessories,Electronics,5,2084,10420,NetBanking,2017,66304,12603,14.69,55,1,3.8,7,16729,0
+C000011,Priya,43,Chennai,Porur,7,Baby Care Products,Grocery,8,5966,47728,Card,25082,26136,6503,4.55,40,15,3.6,7,9027,0
+C000012,Sneha,43,Chennai,OMR,1,Personal Care Items,Dairy,13,2443,31759,UPI,7256,50622,18192,6.06,33,8,3.4,5,6331,0
+C000013,Sai,65,Chennai,Porur,21,"Rice, Dal, Cooking Oil",Personal Care,37,5782,213934,COD,10255,12708,4905,13.33,61,3,1.1,10,17408,1
+C000014,Saanvi,20,Hyderabad,Anna Nagar,56,Electronics Accessories,Electronics,12,6983,83796,Wallet,1620,32091,2784,14.21,30,7,2.3,2,10152,0
+C000015,Diya,41,Pune,Adyar,52,Electronics Accessories,Electronics,33,3775,124575,Card,11541,79783,8303,14.34,60,5,4.2,5,16982,0
+C000016,Aishwarya,52,Hyderabad,Anna Nagar,59,Baby Care Products,Snacks,20,6375,127500,Card,5282,25815,9379,12.53,49,15,1.9,8,19929,0
+C000017,Diya,18,Hyderabad,OMR,21,Electronics Accessories,Grocery,39,5943,231777,UPI,19733,33767,10184,8.26,64,12,1.9,3,4952,1
+C000018,Ishaan,47,Hyderabad,Chromepet,17,Personal Care Items,Household,12,2354,28248,Wallet,20469,66635,7738,3.35,13,4,1.1,3,14321,0
+C000019,Sneha,45,Mumbai,T Nagar,6,"Milk, Bread, Eggs",Bakery,21,4894,102774,UPI,29048,17230,5512,8.78,14,7,4.1,10,5533,0
+C000020,Rohan,44,Bangalore,Velachery,38,Personal Care Items,Household,39,2741,106899,NetBanking,11305,9142,524,3.55,63,15,1.9,8,7884,0
+C000021,Rohan,24,Mumbai,Velachery,43,Snacks and Beverages,Electronics,1,5775,5775,COD,3132,59627,4605,11.72,47,1,4.4,10,8266,0
+C000022,Karthik,35,Hyderabad,Chromepet,31,Frozen Foods,Bakery,20,5913,118260,NetBanking,11175,33238,19283,5.03,45,1,4.2,10,19974,0
+C000023,Sai,45,Mumbai,Velachery,40,"Rice, Dal, Cooking Oil",Baby Care,11,836,9196,Card,26258,47204,7210,10.71,63,1,3.3,5,12557,0
+C000024,Saanvi,47,Bangalore,T Nagar,30,Fruits and Vegetables,Personal Care,22,940,20680,UPI,3000,4747,17267,6.02,17,0,3.1,3,15538,0
+C000025,Saanvi,40,Chennai,Mylapore,58,Cleaning Supplies,Baby Care,30,6154,184620,Wallet,20796,4732,11822,4.49,50,15,4.5,7,6768,1
+C000026,Aarav,52,Mumbai,Porur,39,Fruits and Vegetables,Beverages,30,5220,156600,Card,23017,5954,11232,10.71,28,9,1.9,5,2197,1
+C000027,Aarav,23,Pune,Mylapore,60,Cleaning Supplies,Personal Care,28,7644,214032,NetBanking,28966,30898,15353,2.62,56,6,2.4,2,6635,1
+C000028,Ishaan,40,Bangalore,Perungudi,29,Personal Care Items,Dairy,26,7338,190788,NetBanking,14734,75765,7811,2.22,69,0,1.9,4,17585,1
+C000029,Lakshmi,54,Bangalore,Velachery,13,Personal Care Items,Beverages,19,3898,74062,NetBanking,433,10018,7870,12.2,49,9,1.7,6,12428,0
+C000030,Krishna,56,Bangalore,Adyar,31,Fruits and Vegetables,Fruits,27,931,25137,COD,822,52541,12327,5.19,14,12,4.2,5,10474,0
+C000031,Lakshmi,49,Mumbai,Perungudi,9,Baby Care Products,Dairy,38,2219,84322,COD,7670,69889,12740,3.24,25,5,3.8,1,13103,0
+C000032,Meera,31,Bangalore,T Nagar,58,Bakery Items,Personal Care,20,1754,35080,Wallet,682,50596,15679,11.08,66,15,2,9,14877,0
+C000033,Ishaan,55,Mumbai,Chromepet,51,Cleaning Supplies,Snacks,16,671,10736,Card,15617,56086,780,1.98,41,2,4,1,6945,0
+C000034,Saanvi,61,Pune,Adyar,6,"Rice, Dal, Cooking Oil",Grocery,10,828,8280,Wallet,20533,54894,11833,6.52,17,12,3.5,4,6353,0
+C000035,Nisha,59,Chennai,Mylapore,60,Electronics Accessories,Fruits,24,7176,172224,Wallet,16514,56446,18693,13.74,33,6,4.5,9,12362,1
+C000036,Priya,23,Chennai,Porur,34,Cleaning Supplies,Dairy,17,3877,65909,NetBanking,23832,79165,2532,8.82,33,2,4.9,9,3667,0
+C000037,Karthik,22,Mumbai,Tambaram,9,"Milk, Bread, Eggs",Personal Care,18,7468,134424,Wallet,29811,75011,8376,8.21,66,13,2.9,10,17550,0
+C000038,Rohan,18,Pune,Tambaram,37,"Milk, Bread, Eggs",Grocery,16,5490,87840,COD,14791,55392,783,5.64,15,7,3.4,4,633,0
+C000039,Aishwarya,29,Chennai,Adyar,48,Personal Care Items,Grocery,22,5315,116930,UPI,13477,56624,2925,9.98,44,4,1.3,9,9026,0
+C000040,Nisha,48,Chennai,OMR,9,"Rice, Dal, Cooking Oil",Baby Care,29,2329,67541,COD,4205,16449,13703,14.77,46,4,1,5,10260,0
+C000041,Meera,35,Hyderabad,Velachery,45,Electronics Accessories,Baby Care,22,5314,116908,NetBanking,22887,10895,19355,5.28,36,2,3.1,0,2580,0
+C000042,Sai,52,Chennai,Perungudi,31,Baby Care Products,Snacks,13,6569,85397,COD,11310,41113,966,11.26,29,7,4.3,7,19101,0
+C000043,Aishwarya,30,Hyderabad,Mylapore,23,Electronics Accessories,Personal Care,25,5961,149025,NetBanking,12774,19313,9617,14.85,12,10,3.3,10,440,0
+C000044,Ishaan,64,Delhi,Adyar,14,Electronics Accessories,Bakery,30,4941,148230,Card,19679,61300,8995,0.92,31,3,2.9,6,18258,0
+C000045,Priya,42,Bangalore,Velachery,60,Fruits and Vegetables,Grocery,9,7678,69102,Wallet,6486,16669,10890,1.54,60,9,1.3,5,11350,0
+C000046,Aarav,54,Bangalore,Anna Nagar,23,"Rice, Dal, Cooking Oil",Baby Care,25,3985,99625,Wallet,29514,10034,13791,11.81,14,2,4.2,8,11139,0
+C000047,Vihaan,57,Pune,Velachery,26,Snacks and Beverages,Dairy,37,1195,44215,Card,20961,10155,4992,12.15,27,12,2.4,8,10707,0
+C000048,Karthik,57,Chennai,Tambaram,13,Snacks and Beverages,Snacks,9,7416,66744,Wallet,4490,4218,12007,2.51,11,15,4.7,10,19969,0
+C000049,Ishaan,65,Delhi,Velachery,30,Personal Care Items,Fruits,36,7681,276516,Card,22437,53782,6403,12.21,46,15,3.7,5,9631,1
+C000050,Ira,30,Bangalore,Chromepet,48,"Rice, Dal, Cooking Oil",Bakery,38,5881,223478,NetBanking,15464,14606,3300,10.43,62,11,2.9,4,16254,1
+C000051,Karthik,36,Delhi,T Nagar,20,Bakery Items,Household,12,3814,45768,Wallet,17121,42970,10813,10.64,31,9,2.6,0,421,0
+C000052,Ananya,53,Pune,Adyar,23,Baby Care Products,Bakery,12,7344,88128,Card,2547,36905,8600,1.06,59,2,4.6,9,14146,0
+C000053,Diya,57,Chennai,Tambaram,42,Snacks and Beverages,Snacks,21,4859,102039,NetBanking,5328,15801,11702,0.54,60,5,2.1,7,17702,0
+C000054,Sneha,60,Mumbai,Perungudi,17,Personal Care Items,Personal Care,7,6809,47663,Card,23716,29273,14141,7.63,34,8,4.6,7,3041,0
+C000055,Ira,27,Delhi,Adyar,29,Cleaning Supplies,Grocery,30,6761,202830,Card,21866,32395,16188,4.91,35,13,3.7,5,6827,1
+C000056,Sai,36,Bangalore,Mylapore,55,"Rice, Dal, Cooking Oil",Personal Care,3,3591,10773,UPI,2236,47410,1343,10.04,53,9,1.1,0,8245,0
+C000057,Aditya,40,Delhi,Anna Nagar,29,Frozen Foods,Fruits,36,1791,64476,NetBanking,20588,53469,11135,7.93,42,3,3.6,2,15061,0
+C000058,Krishna,52,Bangalore,Tambaram,43,Snacks and Beverages,Personal Care,13,2044,26572,COD,4832,57378,6034,6.2,34,4,3.7,9,4008,0
+C000059,Vihaan,31,Pune,OMR,10,Cleaning Supplies,Snacks,21,3011,63231,NetBanking,25815,16496,5074,5.44,35,11,4.6,0,18922,0
+C000060,Rohan,46,Mumbai,Anna Nagar,18,Personal Care Items,Dairy,18,2781,50058,NetBanking,8652,42309,1177,6.59,70,10,2.6,1,1841,0
+C000061,Krishna,19,Pune,T Nagar,35,Snacks and Beverages,Grocery,4,6779,27116,NetBanking,23677,55945,2818,11.03,39,9,4.5,3,16941,0
+C000062,Rohan,40,Mumbai,Adyar,45,Fruits and Vegetables,Dairy,32,6109,195488,Wallet,20388,76397,18751,14.69,44,4,4.2,6,12182,1
+C000063,Sai,21,Mumbai,OMR,39,Fruits and Vegetables,Dairy,38,7557,287166,Card,29971,14830,18579,5.8,30,6,3.4,0,10603,1
+C000064,Nisha,42,Delhi,Tambaram,33,Personal Care Items,Dairy,5,3576,17880,Wallet,857,73528,8782,3.62,34,8,1.6,8,15724,0
+C000065,Sai,31,Bangalore,Chromepet,21,Baby Care Products,Dairy,37,1545,57165,COD,25675,30098,7613,6.71,57,7,3.7,5,11630,0
+C000066,Meera,61,Chennai,T Nagar,21,Fruits and Vegetables,Snacks,39,3341,130299,Card,25323,12638,12542,12.95,39,5,4.1,2,2584,0
+C000067,Ira,60,Pune,Perungudi,29,Fruits and Vegetables,Fruits,17,3083,52411,NetBanking,10624,38040,11875,10.13,46,8,2.8,10,17212,0
+C000068,Sneha,55,Chennai,T Nagar,52,Snacks and Beverages,Household,3,5270,15810,NetBanking,15126,20957,8548,11.41,10,15,1.4,2,12689,0
+C000069,Lakshmi,60,Mumbai,Perungudi,7,Bakery Items,Household,32,4305,137760,Card,5197,56915,3460,5.23,42,2,4.1,9,14305,0
+C000070,Meera,65,Hyderabad,Velachery,41,Bakery Items,Electronics,15,7144,107160,Wallet,3717,42620,11306,12.8,40,4,2.2,5,7709,0
+C000071,Karthik,32,Chennai,Mylapore,57,Baby Care Products,Baby Care,13,4503,58539,Card,21509,12275,4416,5.99,47,10,3.7,4,4401,0
+C000072,Ishaan,25,Mumbai,Mylapore,52,Personal Care Items,Grocery,27,7283,196641,COD,18849,61582,7816,10.8,30,15,2.6,8,1888,1
+C000073,Meera,59,Delhi,Adyar,3,Snacks and Beverages,Household,22,1146,25212,UPI,14920,54956,14276,13.14,38,4,1.9,5,3887,0
+C000074,Vihaan,19,Delhi,Velachery,22,"Milk, Bread, Eggs",Grocery,2,2336,4672,Card,9689,72013,1466,12.76,12,10,1.7,9,3502,0
+C000075,Aarav,28,Chennai,Tambaram,36,Snacks and Beverages,Electronics,38,1503,57114,NetBanking,25106,78343,18426,2,23,9,1.6,6,10812,0
+C000076,Ishaan,34,Mumbai,Chromepet,53,Frozen Foods,Household,12,1099,13188,UPI,3854,12767,5570,8.12,10,14,4,2,13931,0
+C000077,Priya,47,Chennai,T Nagar,55,Fruits and Vegetables,Baby Care,13,3126,40638,UPI,26259,31779,9810,0.88,67,15,4.7,2,57,0
+C000078,Aishwarya,27,Chennai,Mylapore,51,"Rice, Dal, Cooking Oil",Baby Care,32,6739,215648,Card,200,75122,14701,4.27,68,1,4.3,5,13021,1
+C000079,Krishna,61,Mumbai,Anna Nagar,35,Fruits and Vegetables,Personal Care,11,3895,42845,COD,3841,34668,16969,12.36,53,5,3.9,0,6107,0
+C000080,Vihaan,31,Delhi,Velachery,19,"Milk, Bread, Eggs",Household,27,1960,52920,Card,18271,34681,17904,5.48,61,9,4.3,9,11872,0
+C000081,Aditya,49,Pune,Anna Nagar,1,Bakery Items,Bakery,33,4182,138006,NetBanking,209,65110,6802,14.51,37,10,2.7,10,7526,0
+C000082,Reyansh,43,Hyderabad,Tambaram,35,Cleaning Supplies,Household,11,3578,39358,Card,15075,52972,18974,9.24,70,10,3,1,18685,0
+C000083,Karthik,35,Chennai,Tambaram,47,"Milk, Bread, Eggs",Beverages,5,1673,8365,COD,13795,38806,7407,12.05,35,15,4.2,1,7756,0
+C000084,Vihaan,57,Delhi,OMR,40,Fruits and Vegetables,Baby Care,16,5723,91568,NetBanking,7431,78595,2048,7.65,24,4,3.9,4,18764,0
+C000085,Lakshmi,33,Bangalore,Anna Nagar,17,Electronics Accessories,Household,4,7066,28264,Wallet,9322,6395,7273,14.79,53,14,1.3,7,4577,0
+C000086,Aditya,45,Pune,Velachery,57,Fruits and Vegetables,Electronics,31,2585,80135,COD,3768,2616,8293,3.83,66,11,1.6,5,19807,0
+C000087,Aishwarya,18,Bangalore,Chromepet,32,Frozen Foods,Beverages,16,3094,49504,COD,9472,24025,14920,0.72,29,9,1.3,6,3126,0
+C000088,Vihaan,22,Bangalore,Velachery,56,Personal Care Items,Fruits,14,4137,57918,NetBanking,11254,17856,7160,13.92,40,6,1.6,0,3084,0
+C000089,Karthik,43,Chennai,Mylapore,11,Snacks and Beverages,Bakery,8,6537,52296,NetBanking,27789,35277,4559,14.54,54,14,4.9,5,515,0
+C000090,Karthik,59,Delhi,Velachery,19,Fruits and Vegetables,Bakery,20,7539,150780,Card,21911,75444,5721,14.78,58,9,2.9,8,14463,1
+C000091,Aishwarya,42,Hyderabad,Perungudi,29,Personal Care Items,Baby Care,24,1260,30240,Wallet,10403,11054,9552,11.71,65,7,2.5,5,10356,0
+C000092,Reyansh,26,Mumbai,Perungudi,7,"Rice, Dal, Cooking Oil",Grocery,31,1659,51429,COD,9957,78063,6449,5.85,23,8,4.8,6,2740,0
+C000093,Saanvi,44,Pune,Porur,57,Bakery Items,Household,37,797,29489,UPI,11773,34560,7868,9.73,12,11,3.6,4,5979,0
+C000094,Meera,46,Bangalore,Tambaram,27,Cleaning Supplies,Electronics,39,1190,46410,UPI,674,42387,17209,8.46,54,9,2.3,6,14609,0
+C000095,Aishwarya,30,Mumbai,Velachery,58,Snacks and Beverages,Baby Care,7,3618,25326,UPI,11762,6484,6800,12.6,48,11,3.9,7,9714,0
+C000096,Ananya,41,Chennai,T Nagar,25,Baby Care Products,Household,18,501,9018,UPI,7545,2298,4713,12.62,59,7,1.8,10,3519,0
+C000097,Krishna,36,Delhi,Velachery,45,Fruits and Vegetables,Snacks,21,6332,132972,Wallet,13140,10086,421,5.47,14,4,3.3,4,4025,0
+C000098,Aishwarya,65,Hyderabad,T Nagar,10,Frozen Foods,Dairy,37,7651,283087,Wallet,4060,52178,6476,6.35,46,1,1.7,6,16260,1
+C000099,Meera,40,Chennai,Mylapore,21,Electronics Accessories,Baby Care,19,6657,126483,Card,13078,64950,14980,9.61,57,12,3.4,3,303,0
+C000100,Meera,54,Chennai,T Nagar,26,Snacks and Beverages,Household,14,4636,64904,Wallet,16376,23085,13947,4.5,16,8,3.1,10,3741,0
+C000101,Rohan,53,Pune,Chromepet,20,Baby Care Products,Baby Care,17,1721,29257,Card,9106,39855,5602,11.65,66,7,1.4,8,2392,0
+C000102,Aishwarya,20,Bangalore,Velachery,11,Baby Care Products,Bakery,38,5018,190684,COD,8434,29357,3367,12.11,39,14,3.6,9,3431,1
+C000103,Priya,56,Bangalore,T Nagar,19,Fruits and Vegetables,Snacks,8,1244,9952,UPI,6112,75174,12829,7.24,54,0,2,5,733,0
+C000104,Aarav,22,Chennai,Anna Nagar,28,Cleaning Supplies,Dairy,32,2575,82400,NetBanking,3571,56091,19009,13.3,31,10,4.7,2,18940,0
+C000105,Aditya,25,Hyderabad,Porur,54,Baby Care Products,Beverages,29,4693,136097,UPI,20640,78177,7431,7.96,64,1,1,10,6002,0
+C000106,Aarav,21,Pune,T Nagar,58,"Milk, Bread, Eggs",Bakery,33,2304,76032,Card,22765,37474,3137,11.6,54,7,4.9,5,11071,0
+C000107,Reyansh,42,Bangalore,Tambaram,22,Cleaning Supplies,Snacks,31,4562,141422,UPI,28253,31391,17534,1.53,45,2,3.6,0,19019,0
+C000108,Aditya,31,Bangalore,OMR,1,Snacks and Beverages,Household,37,3758,139046,COD,23906,60076,12047,13.97,39,2,3.4,6,413,0
+C000109,Karthik,30,Bangalore,Anna Nagar,26,Fruits and Vegetables,Dairy,20,6791,135820,Wallet,20138,17021,12741,7.12,61,2,1.7,7,11543,0
+C000110,Reyansh,33,Bangalore,Mylapore,37,Cleaning Supplies,Household,6,3381,20286,Wallet,17227,69366,10332,2.57,59,1,4.6,1,19200,0
+C000111,Ishaan,63,Hyderabad,T Nagar,12,"Milk, Bread, Eggs",Baby Care,20,3206,64120,Wallet,5689,56685,918,11.12,18,9,1.7,5,11415,0
+C000112,Meera,46,Delhi,Perungudi,15,"Milk, Bread, Eggs",Baby Care,26,3076,79976,Wallet,29881,33731,7411,0.6,27,15,1.6,8,12051,0
+C000113,Ananya,26,Delhi,Mylapore,26,Personal Care Items,Electronics,22,7562,166364,NetBanking,11754,16041,12185,11.38,22,11,3.7,5,19521,1
+C000114,Diya,44,Pune,Velachery,13,Personal Care Items,Personal Care,29,6306,182874,Card,12663,48190,1501,9.92,22,7,4.3,9,2838,1
+C000115,Priya,42,Mumbai,Tambaram,5,Personal Care Items,Grocery,12,4891,58692,UPI,1545,21551,3428,1.09,29,14,2,10,3677,0
+C000116,Lakshmi,45,Chennai,Tambaram,40,Baby Care Products,Electronics,14,6666,93324,Wallet,5,20842,6617,5.96,32,13,2.6,0,19426,0
+C000117,Arjun,57,Chennai,Adyar,32,Baby Care Products,Baby Care,10,7816,78160,UPI,16749,22663,12710,1.28,41,5,4.3,5,11752,0
+C000118,Rohan,22,Chennai,T Nagar,43,Fruits and Vegetables,Fruits,26,3927,102102,UPI,8988,55386,3203,6.74,49,6,3.6,7,10805,0
+C000119,Ananya,43,Delhi,Anna Nagar,43,Electronics Accessories,Personal Care,3,1873,5619,UPI,3488,73144,19697,10.81,65,0,3.3,5,9129,0
+C000120,Aarav,60,Mumbai,Chromepet,15,Baby Care Products,Dairy,21,6049,127029,Wallet,20670,11514,15109,5.47,44,2,3.3,3,3988,0
+C000121,Sneha,40,Delhi,T Nagar,57,Baby Care Products,Bakery,34,952,32368,COD,20134,27135,13668,13.98,35,2,3.6,2,3709,0
+C000122,Ira,47,Mumbai,Velachery,8,Frozen Foods,Fruits,15,2298,34470,Card,8853,35826,6660,3.73,17,15,1.8,5,16485,0
+C000123,Ira,42,Hyderabad,Perungudi,6,"Rice, Dal, Cooking Oil",Grocery,5,6614,33070,COD,6309,75676,13930,1.74,70,13,1.3,6,6194,0
+C000124,Nisha,49,Hyderabad,OMR,10,Cleaning Supplies,Beverages,14,4688,65632,NetBanking,20521,39145,11233,1.48,68,11,1.8,9,9276,0
+C000125,Saanvi,40,Hyderabad,Chromepet,13,Bakery Items,Grocery,3,1226,3678,COD,13729,10808,4633,6.54,49,13,4.9,10,3282,0
+C000126,Saanvi,47,Hyderabad,Chromepet,50,"Rice, Dal, Cooking Oil",Grocery,15,2660,39900,COD,19987,7782,16250,9.27,59,6,1.7,1,18148,0
+C000127,Rohan,41,Pune,Mylapore,56,Bakery Items,Electronics,39,2772,108108,Wallet,12689,1608,4127,11.07,49,6,1.4,0,6247,0
+C000128,Ira,36,Hyderabad,Mylapore,9,Fruits and Vegetables,Fruits,39,7320,285480,Wallet,25747,6097,3299,12.18,62,6,3.6,1,18385,1
+C000129,Priya,54,Hyderabad,Adyar,14,Frozen Foods,Personal Care,38,6316,240008,Wallet,10802,47837,18504,10.87,36,13,2.1,10,18571,1
+C000130,Sneha,60,Delhi,T Nagar,17,Personal Care Items,Electronics,10,3864,38640,Wallet,20429,73458,14082,8.42,50,12,1.3,3,9126,0
+C000131,Ananya,65,Hyderabad,Velachery,18,Frozen Foods,Electronics,35,2741,95935,COD,27118,71659,16256,4,15,3,4.4,8,17124,0
+C000132,Reyansh,25,Mumbai,Perungudi,35,Snacks and Beverages,Bakery,40,3373,134920,Card,15689,70939,4379,9.52,11,8,2.8,5,3100,0
+C000133,Aditya,65,Delhi,Tambaram,21,"Milk, Bread, Eggs",Fruits,9,3137,28233,Card,16424,13532,2114,9.55,34,8,3.3,6,2141,0
+C000134,Aditya,57,Chennai,Chromepet,36,Baby Care Products,Bakery,40,706,28240,UPI,25501,36386,19910,8.89,20,7,1.2,9,2005,0
+C000135,Lakshmi,26,Mumbai,Tambaram,50,Electronics Accessories,Fruits,8,7556,60448,NetBanking,26225,21068,6228,11.56,24,14,3.6,7,6808,0
+C000136,Saanvi,62,Delhi,Tambaram,51,Cleaning Supplies,Grocery,25,5260,131500,COD,29602,49148,14343,11.15,14,14,2.3,10,1536,0
+C000137,Sneha,28,Mumbai,T Nagar,21,Fruits and Vegetables,Snacks,24,4650,111600,Card,11133,44999,12642,10.63,26,13,1.3,8,12781,0
+C000138,Sneha,57,Mumbai,Porur,39,"Milk, Bread, Eggs",Electronics,24,2999,71976,COD,21601,2818,4621,5.46,19,10,1.7,8,13507,0
+C000139,Krishna,52,Hyderabad,Anna Nagar,30,Bakery Items,Fruits,25,2993,74825,Card,19371,38333,19027,10.75,19,0,2.4,7,925,0
+C000140,Sneha,43,Pune,Tambaram,20,Cleaning Supplies,Electronics,10,6508,65080,NetBanking,22354,14318,16834,7.9,24,10,3.6,8,6906,0
+C000141,Rohan,29,Hyderabad,OMR,40,Personal Care Items,Fruits,24,3697,88728,NetBanking,3035,50434,6429,14.5,67,14,2.4,5,12722,0
+C000142,Sneha,42,Chennai,Chromepet,43,"Milk, Bread, Eggs",Grocery,7,7852,54964,Card,25241,74794,19303,14.76,52,9,4.9,1,6359,0
+C000143,Priya,18,Mumbai,Adyar,44,Electronics Accessories,Dairy,13,7714,100282,UPI,25715,15426,19521,3.21,68,10,1.3,10,3784,0
+C000144,Reyansh,32,Bangalore,Tambaram,7,Bakery Items,Personal Care,4,4151,16604,Wallet,23806,32027,2693,11.06,28,11,3.6,7,11384,0
+C000145,Rohan,42,Bangalore,Porur,50,Electronics Accessories,Fruits,32,6308,201856,COD,22495,15530,995,11.92,12,15,2.9,2,8139,1
+C000146,Reyansh,62,Delhi,Velachery,15,Frozen Foods,Household,24,836,20064,COD,8373,29511,3527,0.64,40,5,2.4,2,3715,0
+C000147,Lakshmi,19,Mumbai,Velachery,35,"Milk, Bread, Eggs",Grocery,11,2858,31438,COD,18689,50401,16972,6.88,62,3,4.6,1,18271,0
+C000148,Priya,49,Hyderabad,T Nagar,31,Fruits and Vegetables,Bakery,36,3100,111600,COD,12628,9965,18073,4.44,20,15,1.3,3,4778,0
+C000149,Lakshmi,25,Hyderabad,OMR,56,"Rice, Dal, Cooking Oil",Fruits,16,563,9008,UPI,20525,33813,5209,3.27,43,7,3.3,7,13324,0
+C000150,Aarav,21,Hyderabad,Adyar,37,Cleaning Supplies,Grocery,3,539,1617,UPI,11660,2860,14639,5.1,63,7,1.2,2,9682,0
+C000151,Vihaan,62,Pune,Adyar,26,Bakery Items,Beverages,31,2469,76539,COD,26475,56108,1002,4.94,48,10,4.5,7,430,0
+C000152,Sneha,30,Mumbai,T Nagar,43,Personal Care Items,Household,30,3713,111390,Card,6620,59825,14487,10.19,59,6,5,2,19975,0
+C000153,Diya,21,Delhi,Chromepet,15,Electronics Accessories,Snacks,5,841,4205,UPI,8610,6383,9085,8.33,37,4,1.5,8,7804,0
+C000154,Reyansh,46,Bangalore,Velachery,53,Fruits and Vegetables,Fruits,33,4869,160677,NetBanking,1722,72793,8364,5.55,47,6,3.9,7,6146,1
+C000155,Reyansh,34,Hyderabad,Mylapore,12,Snacks and Beverages,Fruits,21,7213,151473,Card,11484,19704,4162,0.83,67,14,3,9,3300,1
+C000156,Rohan,40,Delhi,Perungudi,51,Personal Care Items,Grocery,28,1290,36120,Card,20209,3984,15452,13.01,55,13,2.4,9,308,0
+C000157,Karthik,49,Chennai,Adyar,2,Cleaning Supplies,Dairy,22,5714,125708,UPI,9949,51111,9787,1.13,70,1,3.5,2,10601,0
+C000158,Sneha,32,Chennai,Perungudi,53,Snacks and Beverages,Dairy,7,6942,48594,Wallet,8083,29475,14538,6.23,32,1,2.1,1,6858,0
+C000159,Saanvi,38,Mumbai,T Nagar,9,"Rice, Dal, Cooking Oil",Beverages,16,5626,90016,COD,10960,54470,14966,8.54,60,0,2.9,0,5146,0
+C000160,Priya,49,Bangalore,Tambaram,23,Fruits and Vegetables,Bakery,6,6867,41202,NetBanking,1940,16448,17632,8.37,59,11,4.4,1,17985,0
+C000161,Ishaan,32,Chennai,Perungudi,9,Fruits and Vegetables,Personal Care,4,1160,4640,COD,25643,17462,12564,11.18,13,3,4.4,2,1025,0
+C000162,Rohan,22,Mumbai,Anna Nagar,50,Electronics Accessories,Beverages,21,5379,112959,COD,17408,30492,8797,2.52,24,9,3.4,4,2301,0
+C000163,Arjun,55,Delhi,Tambaram,19,"Rice, Dal, Cooking Oil",Personal Care,38,6833,259654,NetBanking,25572,64870,5457,6.18,12,3,2.2,7,2664,1
+C000164,Ishaan,42,Mumbai,Tambaram,3,"Rice, Dal, Cooking Oil",Beverages,39,7483,291837,UPI,29878,62462,2978,10.7,38,5,4.7,3,14772,1
+C000165,Lakshmi,59,Delhi,Perungudi,58,Personal Care Items,Snacks,31,708,21948,COD,23313,37709,3214,13.4,15,11,1.2,10,10724,0
+C000166,Sneha,38,Mumbai,Adyar,21,Electronics Accessories,Bakery,16,7791,124656,COD,28098,31988,17901,2.03,32,13,4.4,7,11313,0
+C000167,Ira,54,Hyderabad,Mylapore,37,Electronics Accessories,Beverages,15,5379,80685,NetBanking,29473,32997,10621,9.86,19,14,4.3,6,12966,0
+C000168,Krishna,48,Mumbai,Tambaram,33,Fruits and Vegetables,Beverages,8,2414,19312,Card,3197,69734,6131,11.19,12,11,4.9,8,3034,0
+C000169,Sneha,20,Pune,T Nagar,47,Cleaning Supplies,Personal Care,29,774,22446,UPI,16905,37862,19412,13.81,42,15,3.2,7,1960,0
+C000170,Nisha,21,Mumbai,T Nagar,43,Personal Care Items,Beverages,31,1221,37851,Card,17512,3886,7445,1.75,42,4,4.4,9,10691,0
+C000171,Sai,64,Hyderabad,Porur,14,Cleaning Supplies,Personal Care,28,1149,32172,Card,4601,23436,9337,14.39,42,0,1.6,2,8992,0
+C000172,Sneha,33,Chennai,OMR,34,"Milk, Bread, Eggs",Snacks,31,3605,111755,Wallet,25275,42532,4292,11.92,50,14,2.7,9,8692,0
+C000173,Karthik,29,Hyderabad,T Nagar,1,Fruits and Vegetables,Baby Care,15,7547,113205,Wallet,774,65069,4801,13.69,30,6,3.8,2,15851,0
+C000174,Krishna,35,Delhi,Chromepet,49,Electronics Accessories,Grocery,21,1564,32844,NetBanking,11043,21090,18995,3.63,30,10,4.2,1,8441,0
+C000175,Sai,47,Chennai,Porur,43,Frozen Foods,Bakery,36,4888,175968,Wallet,28483,12945,3836,6.61,29,6,4.8,10,14842,1
+C000176,Vihaan,49,Mumbai,Porur,44,"Rice, Dal, Cooking Oil",Bakery,18,3399,61182,Card,2745,56108,5115,3.62,14,12,4,9,3553,0
+C000177,Ira,63,Hyderabad,Chromepet,38,Frozen Foods,Snacks,8,4863,38904,COD,27166,18213,4948,0.73,22,10,4.1,10,18290,0
+C000178,Diya,41,Bangalore,Mylapore,37,Electronics Accessories,Dairy,17,5703,96951,UPI,12310,50021,16074,12.75,14,8,4.7,9,11829,0
+C000179,Ananya,57,Delhi,Anna Nagar,45,Personal Care Items,Personal Care,35,2793,97755,NetBanking,29082,64804,1480,12.33,30,8,2,8,12759,0
+C000180,Meera,20,Pune,Tambaram,46,"Milk, Bread, Eggs",Grocery,36,2986,107496,NetBanking,21073,64372,12294,8.21,22,11,3.3,10,18632,0
+C000181,Ishaan,62,Pune,Mylapore,19,Cleaning Supplies,Bakery,30,5134,154020,Card,10926,65947,11727,3.55,28,4,4.9,9,18638,1
+C000182,Aditya,46,Bangalore,Adyar,51,Frozen Foods,Snacks,26,3598,93548,Wallet,14760,63155,11421,7.18,41,8,3.9,4,10504,0
+C000183,Aishwarya,37,Pune,OMR,6,Personal Care Items,Beverages,28,7364,206192,Card,3842,41150,9515,11.25,18,4,2.3,0,7156,1
+C000184,Aditya,36,Hyderabad,T Nagar,19,Electronics Accessories,Bakery,13,2036,26468,Wallet,10103,42001,1625,6.2,41,3,2,0,13311,0
+C000185,Karthik,33,Delhi,Porur,36,Personal Care Items,Household,24,3424,82176,Card,8062,8381,14889,13.33,40,13,4.8,0,18662,0
+C000186,Ananya,20,Mumbai,Tambaram,21,Snacks and Beverages,Household,17,5248,89216,COD,19392,66174,16225,0.99,23,11,2.3,2,14019,0
+C000187,Sai,58,Mumbai,Velachery,57,Snacks and Beverages,Dairy,26,6515,169390,Wallet,24055,54143,19320,14.09,57,8,3.1,5,810,1
+C000188,Diya,49,Pune,OMR,30,Baby Care Products,Beverages,12,1970,23640,COD,15394,28261,8850,1.7,65,2,1.6,8,8813,0
+C000189,Saanvi,25,Mumbai,Tambaram,22,Personal Care Items,Fruits,12,6278,75336,COD,11377,52945,6298,5.01,11,1,1.4,3,19829,0
+C000190,Aarav,51,Bangalore,Mylapore,42,Electronics Accessories,Personal Care,28,697,19516,Wallet,15281,14907,8726,11.17,20,5,4.2,4,5328,0
+C000191,Diya,54,Delhi,Anna Nagar,2,Fruits and Vegetables,Fruits,4,1098,4392,Wallet,5270,35446,2214,4.37,29,2,1.4,6,9235,0
+C000192,Sneha,21,Mumbai,Mylapore,20,Electronics Accessories,Bakery,5,5579,27895,NetBanking,11365,37120,7212,2.74,54,8,3.5,10,15518,0
+C000193,Meera,44,Mumbai,Perungudi,40,"Milk, Bread, Eggs",Personal Care,21,3234,67914,NetBanking,27745,68585,1713,12.85,59,12,3.1,0,3199,0
+C000194,Sneha,52,Bangalore,Porur,59,Baby Care Products,Grocery,31,7148,221588,UPI,7001,41751,11115,13.45,50,3,3.5,10,3197,1
+C000195,Aarav,32,Chennai,Anna Nagar,12,Bakery Items,Dairy,15,1164,17460,Card,9692,76958,8257,5.74,16,12,3,5,9076,0
+C000196,Aishwarya,43,Pune,T Nagar,8,Cleaning Supplies,Dairy,38,807,30666,UPI,24680,26437,5097,11.47,39,5,3.2,6,14652,0
+C000197,Aarav,18,Bangalore,OMR,47,Fruits and Vegetables,Grocery,6,6705,40230,Wallet,25478,40369,6648,1.28,61,9,2.9,1,3835,0
+C000198,Meera,50,Bangalore,Porur,20,Snacks and Beverages,Beverages,20,5919,118380,Card,29905,8235,1464,2.56,43,10,3.5,1,10506,0
+C000199,Aarav,37,Mumbai,Tambaram,43,"Milk, Bread, Eggs",Beverages,23,5416,124568,Wallet,10379,36340,9673,7.83,41,15,4.5,2,3207,0
+C000200,Arjun,31,Bangalore,Chromepet,51,Baby Care Products,Personal Care,12,5455,65460,Wallet,15180,74306,10527,1.51,12,3,3.7,2,11069,0
+C000201,Aishwarya,36,Delhi,OMR,45,Baby Care Products,Bakery,12,3855,46260,UPI,7276,34388,17359,14.32,14,12,1.4,5,3140,0
+C000202,Sneha,43,Mumbai,T Nagar,46,Fruits and Vegetables,Baby Care,25,5553,138825,Card,23907,19172,18931,11,31,7,2.8,0,9025,0
+C000203,Diya,30,Pune,OMR,58,"Rice, Dal, Cooking Oil",Personal Care,31,2331,72261,COD,18268,54169,17186,9.65,30,5,4.6,5,16158,0
+C000204,Arjun,40,Hyderabad,Porur,29,"Milk, Bread, Eggs",Baby Care,26,1366,35516,Card,4824,69390,10637,1.35,32,12,3.5,7,19855,0
+C000205,Aditya,53,Chennai,Adyar,36,Cleaning Supplies,Personal Care,27,2409,65043,Wallet,16846,68502,16204,3.16,68,13,1.9,5,11860,0
+C000206,Nisha,38,Mumbai,Perungudi,1,"Rice, Dal, Cooking Oil",Grocery,28,6855,191940,Card,8362,4731,4357,14.55,33,3,4.4,1,3426,1
+C000207,Ishaan,35,Delhi,Perungudi,18,Personal Care Items,Household,24,1350,32400,Card,24413,21528,18680,5.08,62,10,1.1,5,12590,0
+C000208,Krishna,42,Pune,Anna Nagar,50,Bakery Items,Electronics,7,3774,26418,Wallet,867,18973,6533,6.55,32,5,4.8,7,15841,0
+C000209,Diya,18,Delhi,Chromepet,59,Fruits and Vegetables,Baby Care,34,637,21658,UPI,22877,15465,13394,12.54,66,6,5,2,18135,0
+C000210,Ishaan,26,Bangalore,Perungudi,29,"Milk, Bread, Eggs",Household,3,4193,12579,COD,18849,32976,10449,2.99,55,9,1.2,10,8995,0
+C000211,Aditya,53,Hyderabad,T Nagar,29,"Milk, Bread, Eggs",Fruits,16,5442,87072,COD,690,9395,11530,5.17,43,3,4.7,2,8921,0
+C000212,Rohan,18,Bangalore,Anna Nagar,44,Electronics Accessories,Household,6,5700,34200,UPI,15607,67093,14672,3.77,20,12,3.5,7,13465,0
+C000213,Karthik,29,Hyderabad,Chromepet,57,Cleaning Supplies,Household,2,2291,4582,COD,8534,9362,4683,4.89,27,11,4.7,6,14062,0
+C000214,Ira,28,Delhi,Porur,23,Bakery Items,Snacks,29,526,15254,Wallet,810,26302,12819,14.36,22,10,1.2,8,14813,0
+C000215,Rohan,23,Chennai,Anna Nagar,54,Fruits and Vegetables,Beverages,35,1189,41615,UPI,10931,50623,17473,3.73,54,0,1.7,9,11402,0
+C000216,Nisha,50,Pune,T Nagar,20,Baby Care Products,Bakery,28,1889,52892,UPI,9463,34020,11702,4.2,66,10,5,6,1038,0
+C000217,Diya,35,Bangalore,Velachery,55,Baby Care Products,Household,21,2761,57981,Wallet,6568,25501,3374,4.26,19,12,1.3,6,6667,0
+C000218,Reyansh,44,Delhi,Mylapore,19,Fruits and Vegetables,Household,20,2400,48000,Wallet,6184,53275,14414,2.35,14,5,1.6,7,4103,0
+C000219,Aditya,56,Pune,Tambaram,2,Personal Care Items,Bakery,8,555,4440,COD,24210,28354,8716,5.86,11,15,4.6,0,12157,0
+C000220,Saanvi,20,Hyderabad,Chromepet,30,Frozen Foods,Grocery,9,7276,65484,Wallet,10258,66441,846,4.89,16,12,3.8,5,538,0
+C000221,Aditya,26,Pune,Tambaram,44,Frozen Foods,Electronics,25,6915,172875,Card,22515,49513,11377,6.88,13,11,1,8,1219,1
+C000222,Aarav,46,Mumbai,Mylapore,58,Baby Care Products,Bakery,31,7880,244280,Card,21033,59540,2418,10.69,14,12,5,4,5888,1
+C000223,Sai,48,Chennai,Velachery,19,"Rice, Dal, Cooking Oil",Bakery,26,2246,58396,UPI,5275,31946,12957,1.19,15,0,2.2,5,18814,0
+C000224,Ananya,32,Bangalore,Anna Nagar,33,Frozen Foods,Dairy,5,2273,11365,Card,5943,35834,3007,2.03,14,0,3.6,1,11446,0
+C000225,Priya,29,Mumbai,Porur,45,"Rice, Dal, Cooking Oil",Household,17,3541,60197,UPI,11361,48846,18089,10.64,32,6,2.5,7,18194,0
+C000226,Meera,33,Mumbai,OMR,21,Fruits and Vegetables,Grocery,39,7951,310089,COD,9563,3920,8464,12.95,65,6,3.3,6,7324,1
+C000227,Rohan,43,Pune,Perungudi,57,Baby Care Products,Baby Care,32,7612,243584,NetBanking,4235,51370,4210,2.22,22,12,2.6,0,9668,1
+C000228,Lakshmi,50,Mumbai,Perungudi,16,Electronics Accessories,Beverages,17,6945,118065,UPI,9209,27416,4952,7.64,15,14,1.6,2,683,0
+C000229,Krishna,45,Chennai,Tambaram,22,Baby Care Products,Electronics,14,4962,69468,Wallet,25117,49926,3845,4.24,37,14,5,2,173,0
+C000230,Ira,21,Mumbai,Perungudi,38,Snacks and Beverages,Bakery,27,6179,166833,Wallet,4992,33595,15427,1.78,49,7,2.5,8,7826,1
+C000231,Diya,63,Mumbai,Velachery,16,Personal Care Items,Electronics,16,5076,81216,UPI,25925,19194,17600,6.6,61,2,4.7,1,13347,0
+C000232,Ananya,41,Pune,Perungudi,24,Frozen Foods,Bakery,39,4597,179283,Card,87,63231,5627,11.8,39,0,4.5,7,3883,1
+C000233,Aishwarya,53,Pune,T Nagar,24,Fruits and Vegetables,Electronics,27,3147,84969,COD,4639,21925,18020,7.23,33,5,4.3,1,3492,0
+C000234,Rohan,33,Delhi,Perungudi,7,Cleaning Supplies,Electronics,35,2910,101850,Card,15349,77566,8145,13.55,21,2,4.5,5,7140,0
+C000235,Lakshmi,35,Chennai,T Nagar,43,Fruits and Vegetables,Fruits,14,2229,31206,NetBanking,12592,64634,11880,11.97,26,4,3.5,3,17397,0
+C000236,Karthik,64,Chennai,Perungudi,22,Electronics Accessories,Fruits,1,2808,2808,UPI,9103,29528,7144,14.12,48,11,4,4,34,0
+C000237,Rohan,21,Chennai,Mylapore,37,"Milk, Bread, Eggs",Electronics,20,3402,68040,UPI,25987,73320,15215,8.93,38,14,3.5,3,9918,0
+C000238,Aditya,31,Mumbai,Porur,48,Baby Care Products,Baby Care,6,3945,23670,Wallet,10781,59500,5728,2.12,34,5,3.7,5,14029,0
+C000239,Krishna,37,Hyderabad,Porur,25,"Milk, Bread, Eggs",Personal Care,17,3160,53720,COD,26586,50726,5156,13.26,31,0,1.7,3,18868,0
+C000240,Ananya,50,Mumbai,OMR,17,Baby Care Products,Snacks,11,5857,64427,COD,19188,72526,13011,14.53,67,5,3,10,9350,0
+C000241,Priya,36,Pune,Adyar,31,Frozen Foods,Grocery,2,3787,7574,Card,16177,27333,18359,5.53,33,14,4.5,8,14803,0
+C000242,Nisha,63,Bangalore,Perungudi,3,Personal Care Items,Bakery,23,7463,171649,NetBanking,13283,41345,928,1.32,51,15,4.7,7,19952,1
+C000243,Karthik,21,Pune,Porur,41,Fruits and Vegetables,Dairy,1,7672,7672,COD,14096,63460,19392,14.05,22,7,1.5,2,18981,0
+C000244,Karthik,23,Mumbai,Perungudi,39,Fruits and Vegetables,Electronics,12,5086,61032,Card,17836,2282,7249,10.36,20,12,4.2,8,18199,0
+C000245,Arjun,50,Bangalore,Anna Nagar,39,Cleaning Supplies,Bakery,11,1182,13002,COD,10069,26611,5730,4.9,21,15,3.1,0,13326,0
+C000246,Ishaan,38,Mumbai,Tambaram,14,"Rice, Dal, Cooking Oil",Grocery,39,7777,303303,UPI,12674,54584,10744,12.57,38,4,3,6,838,1
+C000247,Aishwarya,41,Hyderabad,T Nagar,41,Bakery Items,Fruits,16,4888,78208,Card,18404,70210,4682,6.31,68,8,2.3,1,8503,0
+C000248,Priya,35,Delhi,Chromepet,27,Fruits and Vegetables,Fruits,11,6131,67441,UPI,28817,22517,12698,4.58,21,10,2.1,5,9444,0
+C000249,Lakshmi,53,Bangalore,OMR,23,Cleaning Supplies,Grocery,8,6126,49008,COD,23673,29288,15595,12.42,40,14,2.5,3,7711,0
+C000250,Sai,19,Mumbai,OMR,9,Fruits and Vegetables,Baby Care,13,6339,82407,NetBanking,2443,27664,18391,8.47,64,4,2.6,8,13400,0
+C000251,Arjun,48,Mumbai,Velachery,52,Frozen Foods,Electronics,11,4921,54131,Wallet,1196,6172,3149,10.15,35,6,2.5,3,18185,0
+C000252,Saanvi,18,Chennai,Perungudi,45,Personal Care Items,Dairy,15,4453,66795,NetBanking,12433,24124,18620,10.12,27,7,2.9,10,18855,0
+C000253,Aishwarya,30,Bangalore,Adyar,58,Electronics Accessories,Snacks,35,5464,191240,NetBanking,3725,45976,10715,14.24,56,9,1.6,3,14113,1
+C000254,Nisha,31,Hyderabad,Tambaram,11,Frozen Foods,Personal Care,30,7726,231780,COD,9323,69198,8934,1.62,54,5,3.4,6,8925,1
+C000255,Vihaan,27,Delhi,Mylapore,22,Cleaning Supplies,Snacks,32,5854,187328,UPI,22126,33375,12682,9.82,67,3,1.8,6,2916,1
+C000256,Saanvi,39,Pune,Adyar,3,Baby Care Products,Grocery,35,1189,41615,Card,28772,53921,18840,12.21,61,7,1.4,1,16917,0
+C000257,Rohan,55,Bangalore,OMR,44,Personal Care Items,Baby Care,35,5813,203455,COD,19206,77579,16447,0.57,20,0,4.2,1,12673,1
+C000258,Ishaan,55,Chennai,Porur,47,Snacks and Beverages,Personal Care,11,5065,55715,Card,21149,39638,15040,3.19,10,5,1.6,5,16984,0
+C000259,Vihaan,38,Hyderabad,Velachery,41,Frozen Foods,Snacks,15,629,9435,Card,27322,30064,9740,3.18,68,12,4.1,8,5201,0
+C000260,Lakshmi,35,Delhi,Perungudi,24,Fruits and Vegetables,Beverages,32,2431,77792,UPI,20078,69851,2122,12.29,56,9,4.1,6,3325,0
+C000261,Sai,41,Delhi,Adyar,32,Baby Care Products,Fruits,16,613,9808,UPI,5004,30312,10537,5.23,61,14,1.9,3,14978,0
+C000262,Arjun,29,Hyderabad,Tambaram,11,Baby Care Products,Bakery,7,1826,12782,Wallet,10454,36182,8468,7.64,54,11,2.4,3,11152,0
+C000263,Ananya,30,Mumbai,Perungudi,58,Fruits and Vegetables,Fruits,8,3325,26600,UPI,8696,57286,8820,14.66,23,15,1.4,0,7350,0
+C000264,Diya,65,Pune,Chromepet,36,"Milk, Bread, Eggs",Household,13,3928,51064,NetBanking,11648,17243,17289,10.12,62,5,4.2,1,13855,0
+C000265,Priya,42,Chennai,Adyar,59,Cleaning Supplies,Beverages,37,5915,218855,COD,12658,55490,17745,8.96,42,1,4.6,0,17173,1
+C000266,Vihaan,40,Delhi,Perungudi,54,Baby Care Products,Fruits,15,1055,15825,Card,8996,4381,12752,9.13,46,4,1.6,3,14881,0
+C000267,Saanvi,56,Pune,OMR,28,Snacks and Beverages,Household,2,7740,15480,UPI,4522,19289,19919,5.02,14,15,1.2,5,11790,0
+C000268,Krishna,40,Delhi,Porur,25,Snacks and Beverages,Personal Care,2,5054,10108,UPI,20548,24334,17595,14.68,57,7,4.8,4,16574,0
+C000269,Karthik,43,Delhi,OMR,39,Snacks and Beverages,Beverages,27,1795,48465,UPI,16717,77481,16403,0.72,10,12,1.3,7,4958,0
+C000270,Sneha,59,Chennai,Velachery,47,Bakery Items,Fruits,13,2054,26702,COD,1823,65507,16299,3.64,66,5,1.3,8,19937,0
+C000271,Sai,60,Chennai,Perungudi,23,Fruits and Vegetables,Electronics,9,6676,60084,NetBanking,2927,72571,10299,5.83,16,9,1.6,1,11834,0
+C000272,Meera,48,Bangalore,Tambaram,2,Snacks and Beverages,Baby Care,39,7332,285948,Wallet,8450,16036,19589,10.02,43,14,4.9,9,2755,1
+C000273,Reyansh,36,Bangalore,Anna Nagar,56,"Rice, Dal, Cooking Oil",Dairy,12,4508,54096,COD,20826,62404,17517,4.68,52,2,3.8,4,15056,0
+C000274,Nisha,21,Bangalore,Porur,25,Bakery Items,Grocery,37,6365,235505,NetBanking,8538,33480,2688,7.49,48,14,1.5,6,3703,1
+C000275,Priya,34,Bangalore,Perungudi,3,Baby Care Products,Household,9,892,8028,COD,29924,36127,14463,4.48,11,2,3.5,7,5848,0
+C000276,Aarav,50,Delhi,Porur,43,Personal Care Items,Fruits,12,6535,78420,Wallet,13788,21728,1309,14.55,28,9,1.8,8,16722,0
+C000277,Aishwarya,59,Pune,Tambaram,5,Baby Care Products,Snacks,30,3796,113880,UPI,2610,56349,18468,13.55,41,0,3.9,6,6394,0
+C000278,Reyansh,47,Bangalore,T Nagar,6,"Rice, Dal, Cooking Oil",Bakery,22,7710,169620,NetBanking,19635,69083,10254,4.02,12,4,1.4,1,3147,1
+C000279,Krishna,36,Bangalore,Porur,24,Fruits and Vegetables,Dairy,37,780,28860,Wallet,16471,49420,16562,13.94,21,7,1.1,7,14875,0
+C000280,Priya,59,Chennai,Anna Nagar,52,Baby Care Products,Beverages,27,6948,187596,NetBanking,26157,25109,16236,2.54,51,11,3.3,4,18081,1
+C000281,Diya,58,Hyderabad,OMR,26,Frozen Foods,Fruits,24,1979,47496,COD,3702,57534,9179,10.06,24,6,2.2,0,9159,0
+C000282,Ananya,59,Pune,T Nagar,52,Snacks and Beverages,Electronics,25,7650,191250,Card,21178,43648,2703,1,34,15,1.5,4,6072,1
+C000283,Reyansh,45,Bangalore,Porur,5,Electronics Accessories,Baby Care,36,6519,234684,Card,16037,7657,17038,13.61,22,8,3.3,3,19627,1
+C000284,Rohan,39,Hyderabad,Velachery,8,Fruits and Vegetables,Beverages,28,4847,135716,NetBanking,9736,70428,5345,12.05,20,13,1.2,8,3200,0
+C000285,Aditya,64,Delhi,Chromepet,18,Frozen Foods,Snacks,29,6754,195866,Wallet,27022,7947,18508,8.74,22,8,2.3,5,9017,1
+C000286,Reyansh,47,Bangalore,Adyar,34,Snacks and Beverages,Baby Care,3,6175,18525,NetBanking,26839,50512,1705,7.97,20,11,4.9,2,477,0
+C000287,Lakshmi,56,Bangalore,Porur,20,Snacks and Beverages,Electronics,13,1644,21372,Card,24573,56545,5495,11.68,25,5,3.9,3,17212,0
+C000288,Krishna,44,Delhi,T Nagar,34,Personal Care Items,Grocery,8,3809,30472,COD,7240,55382,18313,14.59,23,7,3.9,8,3377,0
+C000289,Meera,30,Hyderabad,T Nagar,19,Baby Care Products,Beverages,10,1158,11580,COD,2233,29794,14487,6.93,21,8,2.3,7,11398,0
+C000290,Lakshmi,34,Bangalore,Anna Nagar,57,Bakery Items,Bakery,31,1399,43369,NetBanking,2696,37655,7882,14.61,61,2,4.4,0,7374,0
+C000291,Krishna,38,Mumbai,Adyar,28,Fruits and Vegetables,Bakery,7,7105,49735,NetBanking,26213,8262,2214,2.6,35,4,5,0,2507,0
+C000292,Nisha,44,Mumbai,OMR,20,Snacks and Beverages,Dairy,19,5246,99674,NetBanking,9559,15418,13153,8.59,50,9,1.9,0,18255,0
+C000293,Sneha,62,Pune,Anna Nagar,59,Frozen Foods,Snacks,25,1338,33450,Wallet,27639,47143,18831,1.9,67,14,2.5,3,1449,0
+C000294,Ira,52,Chennai,Adyar,7,Snacks and Beverages,Fruits,13,2369,30797,Card,6686,29987,19501,12.7,44,14,1.2,8,10453,0
+C000295,Aarav,34,Delhi,Adyar,27,"Milk, Bread, Eggs",Fruits,18,2439,43902,UPI,2227,13788,3154,12.15,20,0,4,0,11683,0
+C000296,Sai,23,Mumbai,Anna Nagar,25,Electronics Accessories,Electronics,14,7342,102788,Wallet,10698,28146,3619,12.5,17,7,1.1,8,13886,0
+C000297,Ira,36,Mumbai,Porur,41,Electronics Accessories,Fruits,31,4315,133765,UPI,27097,69096,4618,1.23,69,0,4.6,0,11453,0
+C000298,Ira,27,Bangalore,Perungudi,48,Snacks and Beverages,Beverages,25,2269,56725,Card,17792,38237,7107,12.69,69,12,3.8,1,9353,0
+C000299,Ananya,18,Delhi,T Nagar,58,Fruits and Vegetables,Dairy,11,4117,45287,COD,1210,71335,2721,7.77,40,3,1.5,8,16145,0
+C000300,Arjun,47,Delhi,Chromepet,25,Bakery Items,Grocery,39,3659,142701,Wallet,7776,49571,8078,1.41,47,13,2.7,0,12650,0
+C000301,Vihaan,41,Mumbai,OMR,3,Cleaning Supplies,Fruits,34,788,26792,Wallet,13860,64533,2559,13.62,27,2,2.5,2,13860,0
+C000302,Ishaan,22,Pune,Chromepet,19,Frozen Foods,Snacks,25,2876,71900,UPI,29212,25047,6701,2.74,37,1,1.3,9,8115,0
+C000303,Ishaan,28,Bangalore,Anna Nagar,39,Bakery Items,Snacks,29,6013,174377,COD,12237,54946,8974,4.51,17,9,2.6,8,3390,1
+C000304,Lakshmi,62,Chennai,Chromepet,28,Bakery Items,Fruits,37,7144,264328,Card,27006,55476,4183,14.76,66,8,4.1,5,3150,1
+C000305,Nisha,49,Hyderabad,Porur,19,Baby Care Products,Grocery,11,3421,37631,UPI,16182,31605,6708,9.44,38,3,2.2,3,14432,0
+C000306,Aarav,57,Mumbai,Mylapore,56,Fruits and Vegetables,Baby Care,31,4051,125581,NetBanking,5184,22479,13251,13.59,57,2,4.3,7,6860,0
+C000307,Krishna,22,Bangalore,OMR,34,Frozen Foods,Electronics,20,4846,96920,COD,16996,66275,9634,3.4,55,12,4,4,5490,0
+C000308,Vihaan,55,Chennai,Adyar,50,"Milk, Bread, Eggs",Bakery,20,6151,123020,COD,538,32143,8021,10.73,58,14,3.1,7,17303,0
+C000309,Vihaan,31,Bangalore,Velachery,13,Frozen Foods,Personal Care,34,3159,107406,Wallet,25253,71454,2253,0.55,27,14,4.3,4,19806,0
+C000310,Ananya,61,Chennai,Adyar,48,Baby Care Products,Personal Care,40,7322,292880,UPI,24938,61535,9714,12.61,12,8,1.5,2,11278,1
+C000311,Ishaan,53,Delhi,Anna Nagar,30,Bakery Items,Snacks,22,3688,81136,Card,25918,18039,4551,3.4,41,3,1.1,8,18492,0
+C000312,Karthik,21,Mumbai,Adyar,41,Fruits and Vegetables,Household,2,7590,15180,Card,13142,34297,3510,12.3,60,11,1.1,0,9731,0
+C000313,Diya,65,Mumbai,Chromepet,31,Baby Care Products,Household,38,5539,210482,Card,15313,43538,8724,2.53,63,9,1.4,2,18540,1
+C000314,Karthik,36,Mumbai,Velachery,9,Personal Care Items,Dairy,3,6159,18477,UPI,5189,25353,14185,7.28,60,12,4.4,2,17240,0
+C000315,Saanvi,47,Hyderabad,Adyar,18,Baby Care Products,Baby Care,19,5894,111986,NetBanking,9906,68614,12990,14.86,42,14,3.4,3,6531,0
+C000316,Priya,64,Mumbai,T Nagar,26,Baby Care Products,Household,14,2165,30310,Wallet,23315,11714,9873,0.52,34,7,1.5,10,9640,0
+C000317,Diya,26,Bangalore,T Nagar,47,Fruits and Vegetables,Grocery,18,2580,46440,Card,417,18944,12661,1.11,46,3,1.3,0,10258,0
+C000318,Reyansh,60,Mumbai,OMR,31,Electronics Accessories,Household,24,1129,27096,NetBanking,17015,69880,795,7.86,56,13,3.9,2,19797,0
+C000319,Lakshmi,29,Chennai,Perungudi,29,Cleaning Supplies,Snacks,12,7662,91944,COD,24714,68744,18743,8.19,70,5,3.8,3,16816,0
+C000320,Aishwarya,50,Chennai,Chromepet,11,Baby Care Products,Dairy,32,3511,112352,Card,1581,48946,16441,4.8,57,5,3.2,0,17663,0
+C000321,Saanvi,64,Hyderabad,Mylapore,18,Fruits and Vegetables,Beverages,38,4599,174762,UPI,13510,58612,3125,12.72,54,1,2.4,7,5008,1
+C000322,Krishna,42,Chennai,Anna Nagar,33,Frozen Foods,Fruits,24,5547,133128,Wallet,2828,34811,176,1.32,48,2,4.9,4,5112,0
+C000323,Ira,29,Hyderabad,Tambaram,24,Snacks and Beverages,Baby Care,38,1159,44042,COD,20429,3144,5713,12.83,70,1,2.6,2,17695,0
+C000324,Aarav,26,Bangalore,Anna Nagar,31,Cleaning Supplies,Bakery,1,6668,6668,UPI,20136,51388,1815,13.6,40,6,3.2,9,12737,0
+C000325,Diya,29,Mumbai,Perungudi,6,"Milk, Bread, Eggs",Baby Care,39,4522,176358,NetBanking,2756,21097,4520,6.66,12,11,1.6,9,14502,1
+C000326,Sneha,29,Bangalore,T Nagar,58,Personal Care Items,Personal Care,23,7945,182735,UPI,17065,27048,6446,6.89,15,6,1.5,8,16787,1
+C000327,Krishna,22,Bangalore,Porur,4,"Rice, Dal, Cooking Oil",Grocery,4,2536,10144,NetBanking,2613,26191,11533,13.12,38,3,4.4,3,11852,0
+C000328,Nisha,65,Chennai,Perungudi,2,"Rice, Dal, Cooking Oil",Beverages,1,7469,7469,Wallet,13114,43790,14510,2.12,41,9,3.4,5,16899,0
+C000329,Aditya,27,Hyderabad,Mylapore,14,Cleaning Supplies,Fruits,4,6990,27960,Card,23563,15670,10776,1.42,33,3,4.4,8,12273,0
+C000330,Aditya,63,Bangalore,Perungudi,43,Fruits and Vegetables,Household,3,5714,17142,Wallet,26587,44948,19260,1.32,48,4,1.5,2,4962,0
+C000331,Ishaan,41,Chennai,T Nagar,6,"Rice, Dal, Cooking Oil",Baby Care,13,4968,64584,COD,24166,65834,7924,6.78,30,12,3.9,4,4051,0
+C000332,Ishaan,64,Hyderabad,Mylapore,1,Cleaning Supplies,Fruits,24,2038,48912,NetBanking,13059,65783,11530,7.84,44,11,1.6,6,10091,0
+C000333,Karthik,37,Chennai,Anna Nagar,17,Fruits and Vegetables,Beverages,29,1746,50634,NetBanking,2436,10490,6135,14.89,70,13,3.4,9,2903,0
+C000334,Aishwarya,26,Mumbai,Perungudi,45,"Rice, Dal, Cooking Oil",Personal Care,38,7968,302784,UPI,10861,30537,12278,1.28,55,11,3.1,5,8843,1
+C000335,Sneha,21,Hyderabad,Anna Nagar,56,Baby Care Products,Electronics,22,3107,68354,Card,27782,57096,3068,11.23,37,8,4.9,8,14013,0
+C000336,Aditya,30,Bangalore,Porur,37,Snacks and Beverages,Snacks,13,6440,83720,COD,29110,31523,15202,8.02,70,3,4.2,8,19015,0
+C000337,Aarav,30,Delhi,Velachery,6,Fruits and Vegetables,Personal Care,5,4498,22490,Card,25416,22257,5636,1.27,26,0,3.2,7,7682,0
+C000338,Aditya,20,Hyderabad,Anna Nagar,42,"Milk, Bread, Eggs",Dairy,12,1344,16128,UPI,28637,31143,7503,12.85,39,1,2.3,3,12819,0
+C000339,Rohan,52,Chennai,Tambaram,22,Bakery Items,Baby Care,26,6556,170456,NetBanking,5877,19136,177,4.08,41,9,3.6,5,18752,1
+C000340,Rohan,43,Pune,Porur,33,Snacks and Beverages,Bakery,37,7733,286121,Wallet,10288,61498,16114,7.73,33,10,4,2,8951,1
+C000341,Krishna,36,Hyderabad,Mylapore,38,Fruits and Vegetables,Grocery,10,5397,53970,Card,9247,65394,10229,4.02,10,3,3.1,0,2446,0
+C000342,Sneha,64,Chennai,Adyar,32,Cleaning Supplies,Household,16,4488,71808,NetBanking,230,3892,14387,14.82,56,10,1.6,1,11551,0
+C000343,Krishna,21,Delhi,T Nagar,54,Frozen Foods,Baby Care,25,3639,90975,COD,19301,13401,12298,11.36,39,15,2.3,7,760,0
+C000344,Nisha,62,Chennai,Mylapore,6,Snacks and Beverages,Grocery,32,6792,217344,UPI,29991,4130,7090,4.33,64,9,4.9,7,2816,1
+C000345,Krishna,63,Delhi,Tambaram,25,Bakery Items,Grocery,3,2138,6414,COD,1767,30850,16497,13.13,33,14,4.5,8,19022,0
+C000346,Ananya,56,Pune,Anna Nagar,20,Personal Care Items,Electronics,23,7306,168038,Card,19940,54833,8537,3.99,54,12,2.7,9,9473,1
+C000347,Vihaan,36,Mumbai,Mylapore,21,Baby Care Products,Baby Care,2,530,1060,Wallet,17138,65518,14658,9.53,68,8,2.4,1,11826,0
+C000348,Karthik,48,Hyderabad,Perungudi,57,Bakery Items,Snacks,7,5048,35336,Card,21959,65665,9212,0.67,15,11,4.7,1,13783,0
+C000349,Meera,49,Chennai,T Nagar,18,Baby Care Products,Fruits,25,5810,145250,NetBanking,7682,3816,3333,4.44,15,2,4.7,1,15316,0
+C000350,Reyansh,56,Bangalore,OMR,17,Snacks and Beverages,Personal Care,22,5911,130042,UPI,14414,49907,3675,6.12,65,7,1.5,3,2402,0
+C000351,Ira,34,Hyderabad,OMR,37,Snacks and Beverages,Dairy,12,7961,95532,Wallet,12753,29092,872,1.76,65,13,1.4,2,10782,0
+C000352,Krishna,22,Chennai,Velachery,53,Baby Care Products,Snacks,29,2726,79054,Wallet,5776,78518,5189,6.42,45,14,4.2,6,15545,0
+C000353,Aditya,31,Delhi,Velachery,54,"Rice, Dal, Cooking Oil",Grocery,36,3698,133128,UPI,18427,41230,19760,4.56,55,12,4.7,7,1124,0
+C000354,Karthik,38,Mumbai,Chromepet,1,"Milk, Bread, Eggs",Grocery,13,6814,88582,NetBanking,21272,32143,13862,5.78,17,1,2.4,4,8493,0
+C000355,Sai,21,Hyderabad,Tambaram,37,Bakery Items,Snacks,13,1971,25623,NetBanking,4940,7722,19058,9.85,35,5,2.3,9,6219,0
+C000356,Sai,55,Delhi,Velachery,25,Baby Care Products,Dairy,30,881,26430,NetBanking,13314,36899,6840,3.54,32,11,3.4,8,4871,0
+C000357,Priya,30,Bangalore,Porur,28,Bakery Items,Dairy,26,4610,119860,COD,13869,72392,19772,2.55,30,6,2,6,11699,0
+C000358,Ishaan,61,Mumbai,Tambaram,55,Bakery Items,Electronics,13,4967,64571,Wallet,10582,65690,4915,4.83,11,3,2.7,8,933,0
+C000359,Ananya,52,Chennai,Anna Nagar,53,Bakery Items,Personal Care,21,7517,157857,NetBanking,2491,76918,7735,8.36,14,1,1.4,10,17874,1
+C000360,Arjun,30,Chennai,Porur,52,Bakery Items,Grocery,16,3234,51744,Card,26963,55286,10569,11.07,62,6,1.8,1,6428,0
+C000361,Ira,39,Delhi,Anna Nagar,43,Cleaning Supplies,Grocery,29,2308,66932,Card,29331,71654,10759,6.86,53,8,2.2,3,9783,0
+C000362,Sai,36,Mumbai,T Nagar,17,"Rice, Dal, Cooking Oil",Household,32,1156,36992,Wallet,13423,7624,12819,0.6,33,10,2.4,7,17583,0
+C000363,Priya,42,Bangalore,Anna Nagar,11,Snacks and Beverages,Grocery,29,2404,69716,NetBanking,6932,65977,16527,11.44,39,11,1.6,6,18229,0
+C000364,Vihaan,24,Hyderabad,Mylapore,15,Bakery Items,Grocery,4,2644,10576,UPI,6772,62599,9112,10.48,26,11,4.2,2,3953,0
+C000365,Meera,58,Chennai,Velachery,22,Frozen Foods,Fruits,13,7225,93925,NetBanking,24971,77232,14343,6.05,50,3,3.2,6,9351,0
+C000366,Aditya,35,Bangalore,Adyar,24,Fruits and Vegetables,Fruits,31,5605,173755,UPI,26525,42365,4762,1.82,10,15,4.3,9,6657,1
+C000367,Aditya,58,Chennai,T Nagar,18,Personal Care Items,Electronics,32,5130,164160,Wallet,10597,12935,9337,3.16,27,14,3.6,8,18759,1
+C000368,Rohan,53,Pune,Tambaram,52,"Milk, Bread, Eggs",Electronics,36,7672,276192,Card,18722,28701,167,2.07,20,10,2.2,6,3460,1
+C000369,Saanvi,21,Bangalore,Velachery,44,Baby Care Products,Personal Care,39,5382,209898,UPI,29159,75207,8016,5.15,15,5,2.2,6,11145,1
+C000370,Arjun,59,Hyderabad,Perungudi,46,Bakery Items,Electronics,16,7639,122224,UPI,2531,27525,11481,11.16,58,5,3.4,0,11534,0
+C000371,Krishna,49,Delhi,Velachery,42,Bakery Items,Grocery,9,5242,47178,Wallet,24961,7514,5784,8.96,17,13,2.1,4,6079,0
+C000372,Sai,60,Hyderabad,Perungudi,58,Personal Care Items,Bakery,26,4726,122876,UPI,6304,27317,13092,8.06,28,12,2.3,5,4875,0
+C000373,Aishwarya,45,Bangalore,Perungudi,38,Baby Care Products,Baby Care,40,5076,203040,Wallet,25638,45393,6081,3.71,57,11,3.2,6,8279,1
+C000374,Arjun,56,Pune,Perungudi,8,Fruits and Vegetables,Dairy,9,1646,14814,Wallet,23186,76308,4287,2.52,13,5,3.3,0,11837,0
+C000375,Reyansh,33,Pune,Tambaram,22,Fruits and Vegetables,Snacks,31,5471,169601,NetBanking,6828,1443,2104,7.26,51,2,1.7,7,10515,1
+C000376,Diya,57,Delhi,Velachery,9,Snacks and Beverages,Bakery,22,4513,99286,COD,25956,9933,13572,9.87,10,0,3.8,1,17553,0
+C000377,Reyansh,30,Delhi,Chromepet,38,Electronics Accessories,Bakery,4,3374,13496,Card,4133,38602,8762,7.16,33,3,3.8,0,378,0
+C000378,Arjun,61,Bangalore,Tambaram,9,Bakery Items,Snacks,15,7971,119565,Wallet,1179,39133,6669,7.72,22,1,4,8,15378,0
+C000379,Priya,31,Mumbai,Tambaram,41,Baby Care Products,Bakery,5,7870,39350,UPI,10418,41428,11579,1.33,31,6,3.3,9,5809,0
+C000380,Ananya,27,Pune,Perungudi,40,Personal Care Items,Grocery,1,507,507,NetBanking,17117,2004,18182,3.34,13,2,5,10,8964,0
+C000381,Nisha,62,Mumbai,Anna Nagar,9,"Rice, Dal, Cooking Oil",Personal Care,24,2113,50712,UPI,9318,7833,13926,1.68,13,12,1,4,8689,0
+C000382,Diya,35,Delhi,Mylapore,25,Electronics Accessories,Grocery,3,5045,15135,Card,21316,40299,14181,7.9,41,7,2,2,7372,0
+C000383,Sai,41,Delhi,Porur,37,Snacks and Beverages,Fruits,19,7260,137940,COD,1462,25886,19655,6.58,38,14,2.6,8,17509,0
+C000384,Karthik,60,Chennai,Tambaram,43,"Rice, Dal, Cooking Oil",Beverages,11,5163,56793,Wallet,3829,45550,780,10.85,28,3,1.8,7,12154,0
+C000385,Vihaan,49,Pune,Velachery,53,Fruits and Vegetables,Bakery,33,585,19305,UPI,17242,73830,1392,3.17,19,5,3.1,7,4647,0
+C000386,Nisha,47,Pune,Adyar,43,Electronics Accessories,Snacks,19,3907,74233,COD,27926,79257,2881,8.01,51,8,4.6,7,7238,0
+C000387,Lakshmi,61,Hyderabad,Adyar,3,Personal Care Items,Grocery,39,5755,224445,UPI,11498,48404,12117,5.51,47,12,2.1,5,14282,1
+C000388,Arjun,29,Bangalore,T Nagar,51,Cleaning Supplies,Bakery,12,5966,71592,NetBanking,7167,57635,17009,4.2,69,12,4.9,7,15673,0
+C000389,Aarav,51,Pune,OMR,34,Frozen Foods,Dairy,40,3708,148320,UPI,21851,54388,7387,11.17,49,10,1.4,5,6181,0
+C000390,Saanvi,18,Pune,Mylapore,43,Frozen Foods,Electronics,19,2920,55480,UPI,13417,27083,1529,3.79,62,7,1.9,6,1558,0
+C000391,Aarav,22,Delhi,Chromepet,47,"Milk, Bread, Eggs",Snacks,38,6919,262922,Wallet,15100,21568,8344,8.29,63,12,1.3,7,9143,1
+C000392,Arjun,65,Chennai,Perungudi,37,Frozen Foods,Household,19,4017,76323,UPI,15391,40059,13481,7.39,12,6,3.7,1,13743,0
+C000393,Saanvi,20,Mumbai,Chromepet,22,Personal Care Items,Personal Care,35,4961,173635,UPI,29163,11222,14524,10.98,24,10,2.8,7,14249,1
+C000394,Krishna,25,Bangalore,Porur,54,Snacks and Beverages,Personal Care,5,6796,33980,Wallet,17606,25168,554,13.39,18,4,1.6,6,13119,0
+C000395,Meera,55,Hyderabad,Tambaram,43,Electronics Accessories,Bakery,28,4101,114828,COD,20009,73474,14619,11.04,56,1,4.1,2,16765,0
+C000396,Nisha,20,Hyderabad,Mylapore,27,Frozen Foods,Baby Care,33,5489,181137,Card,17312,20382,12642,5.24,26,9,2.3,10,14873,1
+C000397,Rohan,18,Delhi,Adyar,59,Electronics Accessories,Dairy,34,6125,208250,Wallet,15138,1814,2642,0.81,51,5,3.4,8,3369,1
+C000398,Krishna,27,Pune,Tambaram,21,"Rice, Dal, Cooking Oil",Bakery,36,3994,143784,NetBanking,15736,17842,9942,1.42,65,14,3.5,0,3334,0
+C000399,Vihaan,18,Pune,Adyar,20,Baby Care Products,Baby Care,37,3032,112184,UPI,29568,76018,18038,2.73,10,7,2.8,3,16206,0
+C000400,Diya,27,Bangalore,Anna Nagar,9,Cleaning Supplies,Beverages,11,2565,28215,Wallet,24809,3022,4976,8.12,12,9,1.3,6,3337,0
+C000401,Aishwarya,52,Hyderabad,Mylapore,59,Electronics Accessories,Snacks,37,6182,228734,Wallet,6679,50503,5655,2.6,35,0,1.6,10,15212,1
+C000402,Reyansh,53,Pune,Porur,15,"Milk, Bread, Eggs",Personal Care,20,7769,155380,COD,11036,61526,2018,6.33,69,6,4.2,6,2891,1
+C000403,Nisha,24,Chennai,Mylapore,7,Frozen Foods,Household,7,6448,45136,UPI,5998,65200,463,6.7,53,11,4.3,0,16254,0
+C000404,Lakshmi,38,Mumbai,Tambaram,27,Baby Care Products,Personal Care,11,3458,38038,Card,14511,68697,18472,11.26,42,12,3.4,10,12586,0
+C000405,Arjun,62,Chennai,Porur,3,Electronics Accessories,Fruits,23,7133,164059,UPI,27954,7033,9483,10.14,36,8,4.8,8,15810,1
+C000406,Saanvi,46,Mumbai,T Nagar,33,Fruits and Vegetables,Fruits,32,1877,60064,UPI,28831,7476,1774,3.61,23,5,4.7,4,18919,0
+C000407,Sai,27,Pune,Anna Nagar,27,Personal Care Items,Personal Care,5,7298,36490,Card,22551,54272,4368,1.25,25,4,1.1,3,7851,0
+C000408,Ira,64,Pune,Porur,10,"Rice, Dal, Cooking Oil",Snacks,21,6388,134148,Wallet,11768,33374,2123,0.88,61,7,1.1,7,5243,0
+C000409,Aishwarya,19,Pune,Anna Nagar,44,Electronics Accessories,Snacks,31,3247,100657,Wallet,23724,26234,4648,11.97,24,9,3.3,6,906,0
+C000410,Sai,37,Hyderabad,Mylapore,11,Snacks and Beverages,Bakery,8,2064,16512,Wallet,21224,45289,5344,1.73,66,9,3.6,8,13269,0
+C000411,Aarav,24,Delhi,OMR,6,"Milk, Bread, Eggs",Grocery,1,3895,3895,Card,29617,43384,4298,6.58,44,6,3.7,8,4705,0
+C000412,Lakshmi,36,Chennai,T Nagar,29,Bakery Items,Electronics,2,4553,9106,Wallet,7917,39711,4709,11.48,21,8,5,1,16501,0
+C000413,Meera,59,Mumbai,Anna Nagar,22,Electronics Accessories,Household,25,3287,82175,Wallet,7800,4055,11303,6.03,46,5,4.2,3,3350,0
+C000414,Saanvi,27,Pune,Mylapore,4,Baby Care Products,Snacks,34,6480,220320,COD,22174,41424,14363,14.27,32,9,2.7,0,15559,1
+C000415,Ishaan,65,Bangalore,Porur,36,Frozen Foods,Electronics,2,585,1170,NetBanking,13775,69093,305,12.7,49,15,2.1,5,6144,0
+C000416,Meera,65,Delhi,Anna Nagar,32,Snacks and Beverages,Beverages,5,3258,16290,Wallet,3320,18609,17116,3.18,64,11,1.9,1,3482,0
+C000417,Priya,33,Chennai,Anna Nagar,9,Fruits and Vegetables,Electronics,27,5386,145422,UPI,27782,20465,11428,11.3,61,15,2.5,8,15590,0
+C000418,Ira,49,Hyderabad,Porur,7,Bakery Items,Personal Care,6,5353,32118,NetBanking,20896,56700,18226,5.15,10,14,4.6,1,12511,0
+C000419,Aarav,49,Delhi,Perungudi,58,Fruits and Vegetables,Personal Care,14,3268,45752,UPI,1674,10261,17443,12.84,47,12,4.3,5,12012,0
+C000420,Aarav,52,Bangalore,Anna Nagar,16,Snacks and Beverages,Household,10,6189,61890,NetBanking,16530,10922,15534,4.8,17,8,3.8,1,17423,0
+C000421,Nisha,63,Hyderabad,Porur,47,Fruits and Vegetables,Snacks,5,4049,20245,Card,1774,73283,5114,6.3,42,3,2.4,8,3391,0
+C000422,Aditya,35,Pune,Chromepet,58,Baby Care Products,Snacks,5,6483,32415,Wallet,6053,66821,10444,0.82,60,4,4.4,5,13175,0
+C000423,Sai,18,Mumbai,Mylapore,57,Bakery Items,Fruits,24,6378,153072,COD,21947,30462,4641,11.03,11,6,1.9,5,8218,1
+C000424,Sneha,51,Chennai,Tambaram,46,Electronics Accessories,Snacks,31,4275,132525,NetBanking,10282,53965,10603,5.06,52,0,3.6,10,11647,0
+C000425,Aishwarya,28,Bangalore,Mylapore,47,Fruits and Vegetables,Grocery,20,4182,83640,Wallet,11126,4066,19556,5.96,33,15,4.1,2,7991,0
+C000426,Rohan,28,Delhi,Anna Nagar,3,Electronics Accessories,Dairy,37,2822,104414,Card,20680,16711,13286,12.85,33,15,1.7,2,14140,0
+C000427,Aditya,35,Chennai,Anna Nagar,10,Personal Care Items,Fruits,16,2144,34304,UPI,14960,42718,4345,5.65,33,0,5,8,13496,0
+C000428,Saanvi,32,Bangalore,Mylapore,49,Cleaning Supplies,Beverages,34,1985,67490,UPI,4504,31676,6453,4.17,43,8,3.7,2,11441,0
+C000429,Krishna,37,Mumbai,Perungudi,9,"Rice, Dal, Cooking Oil",Electronics,39,6830,266370,COD,20001,68282,19977,12.93,57,11,5,2,12689,1
+C000430,Sneha,27,Pune,Tambaram,11,Fruits and Vegetables,Fruits,38,7858,298604,Card,26917,70193,4335,0.89,24,13,2.7,4,13744,1
+C000431,Ananya,24,Chennai,OMR,14,Fruits and Vegetables,Fruits,29,5635,163415,Wallet,3724,22291,15252,1.96,33,0,1.8,2,9634,1
+C000432,Priya,30,Pune,Chromepet,39,"Rice, Dal, Cooking Oil",Snacks,26,7657,199082,Card,22145,58450,5809,7.09,41,14,2.7,8,7040,1
+C000433,Nisha,50,Bangalore,Perungudi,45,Baby Care Products,Bakery,26,5808,151008,UPI,3520,19698,17916,8.44,59,8,3.5,7,19569,1
+C000434,Lakshmi,20,Hyderabad,OMR,60,Bakery Items,Beverages,21,4864,102144,UPI,546,22576,5503,6.07,51,7,3.1,10,10495,0
+C000435,Sneha,39,Pune,Adyar,36,Bakery Items,Electronics,2,4533,9066,Wallet,6906,55465,17470,11.93,57,15,3.9,9,578,0
+C000436,Aishwarya,61,Hyderabad,Chromepet,51,Cleaning Supplies,Beverages,1,5424,5424,Card,6048,39509,369,9.7,33,0,2.4,5,8545,0
+C000437,Karthik,58,Mumbai,Porur,54,Electronics Accessories,Snacks,40,5702,228080,COD,534,43062,557,0.79,67,11,5,6,8254,1
+C000438,Aarav,48,Bangalore,Velachery,12,Fruits and Vegetables,Dairy,34,6896,234464,NetBanking,29687,29673,2662,0.64,23,15,4,1,13853,1
+C000439,Aarav,22,Chennai,T Nagar,43,"Milk, Bread, Eggs",Dairy,38,3817,145046,COD,28146,33292,153,0.8,27,5,4.4,2,19923,0
+C000440,Diya,55,Hyderabad,Chromepet,22,Snacks and Beverages,Fruits,28,4673,130844,Wallet,28036,54394,4166,13.07,12,8,2.5,3,11424,0
+C000441,Karthik,59,Pune,Porur,60,Bakery Items,Snacks,16,6821,109136,Card,13240,3680,10818,8.16,10,2,3.1,3,4589,0
+C000442,Vihaan,21,Hyderabad,Chromepet,32,Baby Care Products,Personal Care,10,1624,16240,Card,259,42122,11791,0.55,50,11,2.9,8,439,0
+C000443,Saanvi,37,Bangalore,Tambaram,38,Electronics Accessories,Fruits,9,6066,54594,COD,14133,47462,17754,1.04,24,7,2.1,7,6101,0
+C000444,Nisha,28,Pune,T Nagar,7,Fruits and Vegetables,Snacks,26,4842,125892,UPI,21501,28603,978,3.28,65,3,3.9,9,9702,0
+C000445,Lakshmi,43,Bangalore,Velachery,39,Fruits and Vegetables,Electronics,21,7042,147882,Card,22193,2985,2953,5.54,36,7,2.4,2,8888,0
+C000446,Diya,20,Delhi,Anna Nagar,44,"Rice, Dal, Cooking Oil",Beverages,34,3303,112302,Card,21927,60983,825,8.27,51,4,4.3,4,7858,0
+C000447,Sneha,25,Chennai,Porur,56,Fruits and Vegetables,Bakery,23,4099,94277,COD,18795,70325,8816,13.81,28,7,3.8,3,6615,0
+C000448,Krishna,43,Pune,Adyar,17,"Milk, Bread, Eggs",Dairy,25,2151,53775,Wallet,17706,56076,11911,0.62,45,3,2.1,0,3810,0
+C000449,Rohan,49,Mumbai,Perungudi,14,Bakery Items,Snacks,16,7968,127488,UPI,3590,47471,4173,4.3,54,13,2.2,7,15298,0
+C000450,Priya,41,Hyderabad,T Nagar,58,"Rice, Dal, Cooking Oil",Dairy,34,734,24956,Card,12715,26513,6262,13.15,53,12,3.3,7,15620,0
+C000451,Meera,18,Pune,Anna Nagar,53,Cleaning Supplies,Snacks,10,5403,54030,Wallet,21379,71494,5118,13.49,16,4,4.8,6,17191,0
+C000452,Aishwarya,40,Chennai,Chromepet,35,Cleaning Supplies,Electronics,14,3217,45038,Card,14738,20842,6373,3.58,33,12,4,8,44,0
+C000453,Ananya,30,Mumbai,Chromepet,42,Snacks and Beverages,Baby Care,34,7409,251906,Card,8569,44930,6954,6.95,58,14,2.4,10,2618,1
+C000454,Aditya,45,Delhi,Perungudi,38,Snacks and Beverages,Bakery,8,7341,58728,NetBanking,8011,71369,3746,4.14,61,14,1.4,0,172,0
+C000455,Diya,48,Delhi,Perungudi,11,Snacks and Beverages,Fruits,33,5422,178926,NetBanking,10346,60146,8713,1.4,46,3,4.8,9,9158,1
+C000456,Sai,27,Delhi,Porur,51,Frozen Foods,Personal Care,27,1628,43956,Wallet,7933,36856,13652,9.09,21,14,2.7,1,11819,0
+C000457,Priya,44,Pune,Mylapore,60,Frozen Foods,Beverages,14,1736,24304,NetBanking,16804,16660,14074,2.12,10,2,1.4,9,16888,0
+C000458,Ananya,30,Hyderabad,OMR,53,Snacks and Beverages,Personal Care,40,7373,294920,COD,14297,36573,8415,2.87,28,0,4.3,6,9519,1
+C000459,Diya,65,Delhi,Mylapore,31,"Rice, Dal, Cooking Oil",Beverages,9,2201,19809,COD,5934,38672,3989,6.16,61,5,1.4,2,1994,0
+C000460,Diya,39,Mumbai,Adyar,6,Personal Care Items,Personal Care,36,719,25884,Card,26538,55625,16261,1.56,32,5,4.6,7,7454,0
+C000461,Rohan,59,Chennai,OMR,10,Frozen Foods,Grocery,34,5333,181322,Card,3975,5726,2701,4.11,36,8,1.1,2,3374,1
+C000462,Meera,63,Bangalore,Chromepet,39,Personal Care Items,Personal Care,35,4298,150430,Wallet,14519,66423,12339,1.73,37,5,1.2,0,11454,1
+C000463,Sneha,49,Bangalore,T Nagar,58,Cleaning Supplies,Beverages,33,5828,192324,UPI,17899,25090,10347,5.5,53,10,1.1,7,7925,1
+C000464,Saanvi,38,Hyderabad,Chromepet,21,"Rice, Dal, Cooking Oil",Beverages,16,7843,125488,Card,12492,50556,17724,4.39,69,7,3.2,8,11005,0
+C000465,Lakshmi,39,Mumbai,Anna Nagar,45,Personal Care Items,Bakery,35,3696,129360,Wallet,25680,65708,6919,11.34,34,14,2.1,1,9916,0
+C000466,Sneha,24,Delhi,Perungudi,10,Frozen Foods,Dairy,2,6655,13310,UPI,21830,22866,6326,1.45,50,1,3.6,2,5071,0
+C000467,Aarav,61,Pune,Anna Nagar,55,Baby Care Products,Bakery,9,2434,21906,COD,3957,17526,3944,4.18,34,5,4,4,3585,0
+C000468,Saanvi,42,Pune,Porur,30,Cleaning Supplies,Fruits,22,3802,83644,NetBanking,7284,15802,11853,4.54,46,15,3.1,7,7776,0
+C000469,Aishwarya,44,Pune,Tambaram,1,Bakery Items,Dairy,29,5531,160399,Card,11922,29042,15097,7.24,64,5,2.3,6,15356,1
+C000470,Lakshmi,49,Pune,Adyar,22,Baby Care Products,Fruits,19,4907,93233,Card,37,18366,9665,9.88,39,15,1.1,5,10042,0
+C000471,Sneha,27,Pune,Porur,3,Personal Care Items,Fruits,20,3364,67280,Card,26965,21602,8200,1.48,37,12,1.5,8,3201,0
+C000472,Nisha,65,Chennai,Velachery,32,Fruits and Vegetables,Personal Care,5,4533,22665,NetBanking,2936,77871,9368,9.77,17,15,4.6,1,19172,0
+C000473,Nisha,43,Chennai,Tambaram,49,Baby Care Products,Fruits,26,5583,145158,COD,23272,39700,5520,2.87,48,9,2.5,10,1444,0
+C000474,Aarav,38,Mumbai,OMR,47,Personal Care Items,Household,35,7119,249165,UPI,3268,37007,910,8.63,10,5,2.7,4,6990,1
+C000475,Reyansh,65,Delhi,Mylapore,29,Personal Care Items,Personal Care,38,1925,73150,Wallet,9507,58149,6236,12.07,17,9,1.7,6,6521,0
+C000476,Ananya,61,Delhi,Perungudi,32,Personal Care Items,Dairy,40,4707,188280,Card,28283,37017,7775,5.84,27,10,1.6,8,432,1
+C000477,Lakshmi,39,Chennai,Mylapore,2,Bakery Items,Fruits,13,1565,20345,NetBanking,9320,19187,4931,4.55,52,15,1.4,4,3339,0
+C000478,Vihaan,58,Bangalore,Perungudi,11,Electronics Accessories,Household,17,2076,35292,Card,21617,20282,13160,6.08,23,7,1.8,2,10681,0
+C000479,Ananya,34,Mumbai,Porur,55,Bakery Items,Beverages,34,5941,201994,Wallet,24367,27665,9606,6.24,46,3,3.3,2,3364,1
+C000480,Aishwarya,61,Pune,T Nagar,1,Bakery Items,Bakery,15,2618,39270,COD,9522,45918,2546,1.51,47,6,2.8,10,14358,0
+C000481,Ira,49,Delhi,Velachery,6,Personal Care Items,Personal Care,39,5702,222378,UPI,9736,7352,528,3.79,42,0,4.2,2,14872,1
+C000482,Reyansh,55,Mumbai,T Nagar,3,Electronics Accessories,Grocery,30,4848,145440,NetBanking,3040,68327,2245,7.12,14,9,1.9,0,19194,0
+C000483,Priya,49,Pune,Porur,41,"Rice, Dal, Cooking Oil",Bakery,33,2096,69168,Card,22470,16740,16517,8.72,38,6,2.8,8,14875,0
+C000484,Rohan,18,Pune,Perungudi,28,Fruits and Vegetables,Electronics,14,1007,14098,UPI,20172,54993,11513,9.58,53,4,4.4,6,19806,0
+C000485,Nisha,48,Delhi,Velachery,14,Personal Care Items,Snacks,21,7083,148743,Card,21626,19063,11500,14.4,53,13,2.5,8,14283,0
+C000486,Karthik,46,Mumbai,Chromepet,30,Personal Care Items,Snacks,26,7579,197054,COD,28919,28155,19999,9.14,13,7,2.7,0,5771,1
+C000487,Vihaan,65,Mumbai,Velachery,21,Baby Care Products,Beverages,21,7315,153615,Card,15964,17310,9074,12.72,12,5,4.7,8,11930,1
+C000488,Krishna,38,Chennai,OMR,54,Fruits and Vegetables,Fruits,5,6926,34630,NetBanking,29756,53782,18671,6.48,48,6,4.3,7,17334,0
+C000489,Saanvi,39,Pune,T Nagar,45,Fruits and Vegetables,Beverages,2,6349,12698,Wallet,11285,21802,1062,13.86,70,3,1.4,2,5583,0
+C000490,Aarav,46,Pune,OMR,29,"Rice, Dal, Cooking Oil",Personal Care,22,2963,65186,Card,22954,64580,7237,2.15,23,8,2,5,10216,0
+C000491,Krishna,56,Delhi,Chromepet,25,Baby Care Products,Electronics,25,7182,179550,UPI,4813,12881,11153,3.24,33,12,3.6,9,7959,1
+C000492,Ishaan,23,Chennai,T Nagar,58,Electronics Accessories,Snacks,25,1393,34825,Wallet,15654,7487,6519,2.35,39,12,2.4,7,14966,0
+C000493,Diya,44,Hyderabad,Chromepet,8,Cleaning Supplies,Personal Care,20,5946,118920,Wallet,24417,57167,8721,12.29,61,12,4.4,2,2681,0
+C000494,Meera,41,Mumbai,T Nagar,24,Personal Care Items,Electronics,33,1951,64383,NetBanking,943,10051,4864,10.95,57,4,1.7,4,4389,0
+C000495,Ira,40,Pune,Porur,10,"Rice, Dal, Cooking Oil",Bakery,37,5550,205350,UPI,16472,7090,13150,3.46,12,10,1.9,1,13091,1
+C000496,Karthik,52,Pune,Perungudi,53,Frozen Foods,Snacks,21,4580,96180,COD,12673,38246,9004,2.02,55,5,1.5,2,19545,0
+C000497,Ira,62,Hyderabad,Mylapore,35,Cleaning Supplies,Bakery,38,7550,286900,Wallet,21188,78537,19103,4.01,14,10,2.6,2,6551,1
+C000498,Saanvi,42,Bangalore,Tambaram,42,Baby Care Products,Grocery,21,2977,62517,UPI,12787,16343,15795,11.97,37,7,2,7,538,0
+C000499,Krishna,65,Chennai,Anna Nagar,50,Cleaning Supplies,Grocery,6,3423,20538,Wallet,25850,64222,12019,9.99,45,15,4.6,5,14451,0
+C000500,Sai,60,Pune,Adyar,11,"Rice, Dal, Cooking Oil",Personal Care,36,2855,102780,Wallet,19192,66899,19653,6.53,64,8,4.9,10,19928,0
+C000501,Vihaan,30,Delhi,Adyar,54,Bakery Items,Electronics,36,7307,263052,UPI,17047,5182,5476,3.92,29,3,3,3,1150,1
+C000502,Sneha,34,Hyderabad,OMR,27,Cleaning Supplies,Dairy,31,3005,93155,Wallet,5499,57786,9874,14.15,10,3,2.1,1,10156,0
+C000503,Ananya,62,Delhi,T Nagar,53,Cleaning Supplies,Bakery,10,6622,66220,Wallet,13377,49737,18824,11,41,1,3.9,0,11295,0
+C000504,Saanvi,31,Bangalore,Tambaram,57,Cleaning Supplies,Snacks,22,4886,107492,Card,16236,36170,3549,0.73,36,12,2.5,7,16341,0
+C000505,Reyansh,41,Chennai,OMR,25,"Rice, Dal, Cooking Oil",Baby Care,31,7155,221805,COD,6612,21483,14056,7.19,26,0,4.3,8,19694,1
+C000506,Aarav,28,Chennai,Porur,19,Personal Care Items,Fruits,37,6953,257261,Card,29059,53735,9194,1.82,41,9,2,10,5963,1
+C000507,Lakshmi,51,Delhi,T Nagar,45,Fruits and Vegetables,Baby Care,36,4801,172836,COD,27075,42222,12455,11.28,19,6,2,9,16116,1
+C000508,Priya,18,Pune,Mylapore,52,Cleaning Supplies,Bakery,20,2664,53280,UPI,29325,27839,17097,5.15,21,6,1.4,10,110,0
+C000509,Ishaan,62,Chennai,Velachery,40,Bakery Items,Snacks,37,5453,201761,Card,5987,1592,15113,1.94,19,4,3.2,5,3058,1
+C000510,Arjun,46,Bangalore,Perungudi,12,"Rice, Dal, Cooking Oil",Baby Care,18,5910,106380,Wallet,9255,16674,15007,13.19,42,8,1.4,5,15718,0
+C000511,Vihaan,49,Mumbai,Porur,41,"Milk, Bread, Eggs",Beverages,39,3335,130065,COD,21885,59295,10376,2.47,50,12,3.9,2,8613,0
+C000512,Lakshmi,65,Mumbai,Chromepet,16,Electronics Accessories,Dairy,24,1835,44040,UPI,19393,19917,19568,5.84,52,6,3.8,4,13993,0
+C000513,Aditya,26,Chennai,Tambaram,6,Baby Care Products,Fruits,18,3895,70110,Card,21792,71530,8381,7.26,24,2,3,0,3292,0
+C000514,Aishwarya,50,Bangalore,Mylapore,30,"Milk, Bread, Eggs",Electronics,26,637,16562,Wallet,26500,54882,19518,4.45,15,11,2.9,9,19098,0
+C000515,Saanvi,29,Pune,Perungudi,13,Snacks and Beverages,Bakery,10,1778,17780,COD,15233,9593,1296,0.65,70,7,2.5,1,12322,0
+C000516,Sneha,31,Pune,Mylapore,14,Fruits and Vegetables,Bakery,23,6685,153755,Wallet,22000,5475,4481,3.99,39,2,3.1,8,13296,1
+C000517,Sneha,27,Delhi,OMR,7,Fruits and Vegetables,Electronics,27,3487,94149,Card,16697,60183,16936,4.87,47,6,4.8,5,2696,0
+C000518,Ananya,51,Mumbai,Tambaram,16,Frozen Foods,Fruits,25,6924,173100,Card,4644,26129,1669,1.05,30,15,2.3,10,13571,1
+C000519,Priya,27,Bangalore,OMR,47,Snacks and Beverages,Fruits,20,6515,130300,NetBanking,14597,39725,5751,14.71,58,9,3.5,10,6102,0
+C000520,Priya,27,Bangalore,Chromepet,2,Personal Care Items,Household,12,4974,59688,NetBanking,25836,12152,17563,2.35,31,3,3.6,7,18134,0
+C000521,Aarav,42,Bangalore,Porur,28,"Rice, Dal, Cooking Oil",Snacks,5,7196,35980,Card,13488,5674,11523,7,29,1,1.1,9,8526,0
+C000522,Krishna,44,Pune,Porur,34,Frozen Foods,Dairy,36,723,26028,NetBanking,13658,63722,2499,3.42,35,15,1.8,3,15545,0
+C000523,Rohan,48,Chennai,Porur,41,Electronics Accessories,Electronics,17,2958,50286,Wallet,24070,51834,893,10.48,34,15,1.8,3,15623,0
+C000524,Reyansh,45,Pune,Mylapore,10,Personal Care Items,Electronics,40,7319,292760,NetBanking,29115,54224,17444,1.19,63,11,4.5,9,15860,1
+C000525,Krishna,33,Pune,Tambaram,55,Personal Care Items,Bakery,24,2181,52344,Wallet,12015,35755,3147,6.16,50,8,1.7,1,16693,0
+C000526,Diya,50,Bangalore,T Nagar,9,"Milk, Bread, Eggs",Dairy,29,4443,128847,UPI,10036,8496,11491,6.32,23,4,3.4,9,11669,0
+C000527,Aarav,59,Delhi,Tambaram,56,Fruits and Vegetables,Bakery,38,4738,180044,NetBanking,21928,58272,14238,7.82,12,1,1.9,5,1386,1
+C000528,Saanvi,42,Hyderabad,Adyar,3,Fruits and Vegetables,Personal Care,19,5357,101783,COD,12831,7589,19419,8.85,53,3,1,8,5545,0
+C000529,Saanvi,64,Bangalore,Velachery,36,Bakery Items,Personal Care,33,4542,149886,Card,6350,53557,11199,4.52,21,12,1,1,9857,0
+C000530,Rohan,30,Delhi,OMR,12,Frozen Foods,Personal Care,2,5792,11584,NetBanking,9708,26767,3871,12.29,17,3,2.1,0,18108,0
+C000531,Ishaan,24,Delhi,Velachery,32,Cleaning Supplies,Household,30,5716,171480,UPI,22170,3619,19949,14.88,21,7,1.3,5,7156,1
+C000532,Karthik,43,Bangalore,Chromepet,57,Fruits and Vegetables,Bakery,19,7587,144153,COD,25192,2241,11284,0.62,53,13,1.7,4,9808,0
+C000533,Aditya,50,Chennai,Velachery,47,Snacks and Beverages,Beverages,37,5115,189255,UPI,23904,55177,13165,10.37,65,13,3.5,10,19140,1
+C000534,Sneha,43,Chennai,Anna Nagar,51,Electronics Accessories,Snacks,26,2805,72930,NetBanking,9884,33794,13943,4.47,58,8,3.4,8,4836,0
+C000535,Saanvi,46,Delhi,Adyar,56,Frozen Foods,Personal Care,22,1087,23914,UPI,3516,69123,4657,9.2,37,9,2.4,1,12789,0
+C000536,Ananya,31,Delhi,Tambaram,25,"Rice, Dal, Cooking Oil",Personal Care,32,6335,202720,NetBanking,18894,49906,12841,1.65,39,10,2,7,1184,1
+C000537,Reyansh,19,Pune,Porur,51,Fruits and Vegetables,Fruits,17,1246,21182,Wallet,19737,2858,11552,10.08,38,15,4.9,7,3193,0
+C000538,Reyansh,37,Bangalore,Velachery,14,Bakery Items,Bakery,7,7149,50043,UPI,28695,27907,1735,9.11,11,6,3.8,1,1213,0
+C000539,Sneha,51,Delhi,T Nagar,11,Baby Care Products,Household,18,3284,59112,NetBanking,26166,32845,4613,12.04,61,14,4,1,7337,0
+C000540,Ishaan,61,Delhi,OMR,50,Cleaning Supplies,Electronics,38,729,27702,COD,441,74199,13501,8.17,20,7,3,2,12091,0
+C000541,Ananya,62,Chennai,Chromepet,25,Electronics Accessories,Fruits,33,4354,143682,Wallet,21330,36343,15369,13.59,17,15,3.7,7,12784,0
+C000542,Aditya,37,Delhi,Adyar,4,Bakery Items,Snacks,25,4383,109575,UPI,26932,7874,5065,14.42,13,10,2.5,6,4340,0
+C000543,Ira,28,Delhi,Adyar,38,Baby Care Products,Grocery,19,3718,70642,Wallet,28606,69682,6417,12.72,51,0,3.9,4,2504,0
+C000544,Ishaan,52,Pune,OMR,39,Personal Care Items,Household,11,1541,16951,UPI,11151,6059,12437,3.04,66,1,2,7,14240,0
+C000545,Ira,42,Bangalore,T Nagar,17,"Milk, Bread, Eggs",Snacks,1,7577,7577,Wallet,28887,53954,14749,2.57,64,5,3.6,7,15115,0
+C000546,Arjun,51,Pune,Tambaram,60,"Rice, Dal, Cooking Oil",Bakery,10,3874,38740,Wallet,6401,8086,4810,2.45,17,14,2.2,5,17515,0
+C000547,Ira,62,Pune,Perungudi,49,"Milk, Bread, Eggs",Beverages,31,2571,79701,COD,18230,25523,1999,9.31,14,12,3.8,3,16264,0
+C000548,Meera,38,Hyderabad,Chromepet,51,Cleaning Supplies,Household,32,7517,240544,COD,15499,46461,4102,4.08,43,12,3.6,8,7422,1
+C000549,Ananya,60,Bangalore,Chromepet,36,Frozen Foods,Bakery,8,3082,24656,COD,18823,51098,15186,7.45,31,2,3.2,10,4690,0
+C000550,Nisha,41,Delhi,Adyar,20,"Milk, Bread, Eggs",Electronics,16,1030,16480,Wallet,28970,51018,6129,13.59,14,11,3.3,10,14802,0
+C000551,Lakshmi,51,Chennai,Velachery,47,Bakery Items,Household,31,5185,160735,NetBanking,13621,57643,15447,3.13,64,10,1.6,5,17832,1
+C000552,Priya,20,Chennai,Velachery,14,Bakery Items,Grocery,2,1096,2192,Wallet,2890,56758,7118,11.25,37,5,4.7,1,4883,0
+C000553,Nisha,59,Bangalore,T Nagar,57,Bakery Items,Baby Care,19,5316,101004,Wallet,29696,53491,12204,11.37,54,13,3.6,1,16707,0
+C000554,Sai,23,Mumbai,Perungudi,31,Baby Care Products,Personal Care,33,6031,199023,COD,10230,6060,8844,1.03,61,7,3.9,10,1835,1
+C000555,Aditya,58,Bangalore,OMR,40,Snacks and Beverages,Baby Care,27,1821,49167,Card,9484,20746,14910,9.65,39,3,3.5,0,339,0
+C000556,Aishwarya,31,Pune,Perungudi,14,Fruits and Vegetables,Grocery,8,4923,39384,UPI,20938,4045,11526,12.9,58,10,4.7,10,12617,0
+C000557,Karthik,52,Pune,OMR,58,Snacks and Beverages,Personal Care,7,5017,35119,NetBanking,23289,62292,11297,13.21,10,2,1.7,4,8962,0
+C000558,Karthik,61,Pune,Porur,43,Cleaning Supplies,Household,31,6775,210025,Wallet,282,72965,15324,13.51,70,3,1.4,9,5783,1
+C000559,Saanvi,58,Hyderabad,Chromepet,52,Personal Care Items,Electronics,2,6086,12172,Card,4516,57572,13313,10.55,60,14,5,4,6550,0
+C000560,Krishna,35,Hyderabad,Adyar,22,Frozen Foods,Snacks,3,2945,8835,NetBanking,5414,76147,17190,8.05,66,0,3.3,8,2886,0
+C000561,Sneha,26,Chennai,Chromepet,40,"Rice, Dal, Cooking Oil",Fruits,31,2025,62775,Wallet,9962,59489,3492,9.35,49,14,3.8,2,2460,0
+C000562,Aarav,41,Mumbai,Anna Nagar,4,Snacks and Beverages,Baby Care,33,6741,222453,UPI,1220,52886,10042,4.92,52,5,3.6,8,18601,1
+C000563,Ishaan,60,Bangalore,Porur,14,Personal Care Items,Bakery,34,2494,84796,NetBanking,20820,27961,13450,4.98,68,14,3,2,16067,0
+C000564,Aishwarya,20,Pune,Adyar,50,Frozen Foods,Beverages,9,690,6210,UPI,9995,79400,1299,7.82,42,8,5,7,17161,0
+C000565,Ishaan,41,Mumbai,OMR,25,Baby Care Products,Personal Care,36,1249,44964,Wallet,27862,12141,12305,10.43,52,7,2.8,4,13229,0
+C000566,Nisha,51,Hyderabad,OMR,7,Fruits and Vegetables,Bakery,30,6951,208530,Wallet,8350,2624,9470,2.07,23,4,2.3,2,15605,1
+C000567,Rohan,56,Delhi,Anna Nagar,15,Fruits and Vegetables,Baby Care,3,1310,3930,UPI,8990,1220,11766,13.31,61,7,3.6,8,18346,0
+C000568,Sai,27,Bangalore,Adyar,13,Bakery Items,Fruits,32,7338,234816,UPI,1435,7087,11628,12.22,24,14,4,6,9867,1
+C000569,Saanvi,65,Bangalore,Anna Nagar,34,Frozen Foods,Grocery,33,6124,202092,Card,25995,69938,15924,10.21,11,0,1.7,9,19982,1
+C000570,Vihaan,33,Pune,T Nagar,33,Baby Care Products,Bakery,36,4768,171648,COD,17283,15109,5409,13.5,17,2,1.5,10,1033,1
+C000571,Ananya,58,Pune,Anna Nagar,32,Snacks and Beverages,Electronics,32,932,29824,NetBanking,28371,38268,10169,5.74,16,3,2.6,0,15423,0
+C000572,Nisha,19,Hyderabad,T Nagar,33,"Rice, Dal, Cooking Oil",Beverages,37,3515,130055,NetBanking,29374,65639,842,9.08,19,1,4.7,2,1015,0
+C000573,Diya,31,Delhi,Porur,31,Baby Care Products,Grocery,3,3573,10719,NetBanking,20197,42493,13482,10.75,32,4,4.4,10,2986,0
+C000574,Aarav,32,Hyderabad,T Nagar,4,Electronics Accessories,Dairy,19,5177,98363,Wallet,5541,62675,13485,13.53,24,9,4.2,9,5943,0
+C000575,Rohan,23,Hyderabad,Porur,47,Frozen Foods,Baby Care,8,6218,49744,Card,18420,3815,17883,10.16,59,2,2.8,7,10445,0
+C000576,Priya,43,Delhi,T Nagar,48,Snacks and Beverages,Dairy,9,2508,22572,Card,22397,66117,2279,8.52,45,1,4.5,5,9432,0
+C000577,Ishaan,28,Pune,Adyar,28,Cleaning Supplies,Beverages,7,1192,8344,COD,5628,57194,13621,7.38,62,15,3.6,7,2066,0
+C000578,Karthik,20,Chennai,OMR,29,Cleaning Supplies,Electronics,36,6383,229788,UPI,22920,43624,14283,10.81,21,10,1.7,4,16155,1
+C000579,Aarav,20,Bangalore,Porur,23,Snacks and Beverages,Bakery,15,7269,109035,NetBanking,9143,20252,16915,10.64,24,10,2.1,1,18355,0
+C000580,Lakshmi,27,Pune,Porur,24,Baby Care Products,Household,20,6325,126500,NetBanking,8720,50351,13912,14.3,58,7,1.9,3,4542,0
+C000581,Lakshmi,24,Hyderabad,Chromepet,22,Bakery Items,Household,25,1497,37425,Card,7365,65089,17986,0.61,18,3,1.5,5,14382,0
+C000582,Aditya,60,Pune,Mylapore,14,Bakery Items,Grocery,26,3930,102180,COD,14061,43345,9806,5.01,12,6,3.3,7,201,0
+C000583,Rohan,34,Delhi,Chromepet,41,Fruits and Vegetables,Fruits,21,2799,58779,NetBanking,8398,75799,19918,11.97,42,2,1.5,1,410,0
+C000584,Ananya,23,Mumbai,Perungudi,50,Bakery Items,Grocery,16,5635,90160,UPI,9114,31178,13965,13.53,53,9,4.6,9,18135,0
+C000585,Aishwarya,29,Chennai,Adyar,40,Fruits and Vegetables,Beverages,18,3684,66312,NetBanking,27073,69804,7487,7.62,38,14,2.5,7,16778,0
+C000586,Lakshmi,31,Delhi,Velachery,48,"Milk, Bread, Eggs",Bakery,2,7183,14366,COD,24922,45655,12512,10.87,70,0,2.1,1,14643,0
+C000587,Priya,24,Chennai,Porur,23,"Milk, Bread, Eggs",Personal Care,17,2768,47056,Wallet,4491,51175,8912,3.14,53,1,2,2,3204,0
+C000588,Priya,24,Mumbai,Adyar,51,Personal Care Items,Fruits,2,6371,12742,COD,1153,40939,4043,7.67,25,12,1.8,5,19742,0
+C000589,Vihaan,57,Pune,Mylapore,36,Fruits and Vegetables,Baby Care,8,7924,63392,COD,13471,45076,2569,9.96,56,2,4.2,2,4422,0
+C000590,Rohan,62,Delhi,Anna Nagar,21,Cleaning Supplies,Fruits,37,3728,137936,Card,2485,74487,14647,14.64,66,12,3.9,4,6190,0
+C000591,Aarav,32,Hyderabad,OMR,12,Electronics Accessories,Beverages,8,2123,16984,COD,9721,50647,2012,13.62,37,4,4,1,16391,0
+C000592,Rohan,56,Pune,Chromepet,2,Bakery Items,Personal Care,9,4376,39384,NetBanking,17851,21854,13945,13.14,65,4,2.7,5,7506,0
+C000593,Sneha,48,Pune,Mylapore,32,"Rice, Dal, Cooking Oil",Fruits,14,4182,58548,UPI,7100,44748,15832,5.75,12,15,4.6,6,12677,0
+C000594,Aarav,22,Delhi,OMR,16,Cleaning Supplies,Bakery,38,5792,220096,COD,10543,35356,9900,12.96,11,14,2.8,10,14981,1
+C000595,Karthik,20,Mumbai,Adyar,13,Bakery Items,Personal Care,5,5367,26835,Wallet,22381,9045,15847,1.27,69,15,2.9,10,6439,0
+C000596,Aarav,64,Mumbai,Anna Nagar,14,Fruits and Vegetables,Electronics,40,5695,227800,COD,14398,5229,9596,4.19,48,8,3.6,3,4768,1
+C000597,Rohan,32,Chennai,Tambaram,13,Cleaning Supplies,Snacks,8,6243,49944,COD,24373,67005,434,4.98,30,3,1.7,7,14554,0
+C000598,Vihaan,30,Hyderabad,Velachery,19,Electronics Accessories,Baby Care,25,835,20875,Wallet,11571,72553,7675,8.81,40,15,4.2,4,2986,0
+C000599,Meera,56,Mumbai,Velachery,43,Bakery Items,Bakery,35,7633,267155,Wallet,23052,16958,3560,9.93,33,5,2.1,10,8121,1
+C000600,Arjun,60,Pune,Porur,50,Personal Care Items,Personal Care,4,562,2248,Wallet,25912,58257,14420,12.37,28,13,1.5,0,6377,0
+C000601,Meera,22,Delhi,Porur,2,Electronics Accessories,Personal Care,24,1617,38808,Wallet,25784,64886,11083,5.73,32,7,3.2,7,5894,0
+C000602,Nisha,61,Delhi,Tambaram,6,Bakery Items,Beverages,22,7417,163174,Card,6707,57721,4057,13.57,20,13,4.5,6,6405,1
+C000603,Arjun,28,Bangalore,Mylapore,47,"Milk, Bread, Eggs",Household,5,7761,38805,Card,18772,64128,15034,14.73,25,1,3.9,5,3727,0
+C000604,Priya,52,Hyderabad,Porur,23,Frozen Foods,Snacks,21,791,16611,NetBanking,18231,53177,12909,10.91,68,8,1.1,5,13515,0
+C000605,Ananya,22,Bangalore,Tambaram,48,Baby Care Products,Dairy,9,4336,39024,NetBanking,1176,2398,1953,4.56,33,2,4.6,6,5431,0
+C000606,Ira,55,Delhi,Tambaram,43,Personal Care Items,Baby Care,15,5270,79050,NetBanking,25113,56741,16762,6.41,39,12,2.1,10,2767,0
+C000607,Saanvi,30,Bangalore,T Nagar,27,Personal Care Items,Electronics,36,3961,142596,Wallet,66,9689,16918,2.17,15,12,3.1,8,18703,0
+C000608,Krishna,42,Bangalore,Porur,31,"Rice, Dal, Cooking Oil",Baby Care,11,1044,11484,Wallet,12080,75502,19753,6.66,54,1,1.4,6,16951,0
+C000609,Reyansh,18,Delhi,Perungudi,45,Personal Care Items,Fruits,20,5716,114320,Card,26484,19519,6572,0.71,49,5,4.7,10,681,0
+C000610,Aditya,29,Pune,Porur,10,Bakery Items,Household,33,2701,89133,Card,13516,55097,19163,10.45,17,9,4.8,8,11783,0
+C000611,Saanvi,27,Pune,Chromepet,15,Personal Care Items,Bakery,12,2383,28596,UPI,4532,64749,624,0.99,31,11,2.3,5,15598,0
+C000612,Priya,42,Bangalore,Mylapore,5,Fruits and Vegetables,Electronics,34,3563,121142,NetBanking,20899,11396,8979,0.75,53,12,1.4,0,547,0
+C000613,Arjun,64,Chennai,Perungudi,16,"Milk, Bread, Eggs",Bakery,40,3139,125560,NetBanking,25258,33943,3793,14.32,55,6,2.1,6,14454,0
+C000614,Sai,51,Delhi,Anna Nagar,38,Fruits and Vegetables,Bakery,28,6894,193032,Wallet,4686,30363,2919,14.58,62,7,3.9,4,3675,1
+C000615,Vihaan,33,Hyderabad,Velachery,49,Cleaning Supplies,Baby Care,7,1479,10353,COD,22583,22242,18972,0.72,45,4,2.3,2,1995,0
+C000616,Arjun,47,Delhi,Velachery,4,Bakery Items,Fruits,6,7257,43542,Card,21943,57516,9593,12.74,16,6,4.9,5,7168,0
+C000617,Sneha,29,Bangalore,OMR,27,Bakery Items,Grocery,8,7794,62352,UPI,4368,16840,19334,12.64,16,2,2,2,12837,0
+C000618,Vihaan,26,Pune,T Nagar,20,Electronics Accessories,Personal Care,30,7834,235020,Card,6507,3297,2067,10.97,23,3,3,5,2726,1
+C000619,Arjun,43,Mumbai,Velachery,37,Bakery Items,Fruits,31,6453,200043,Wallet,23602,30437,4081,6.16,58,3,1.9,1,1620,1
+C000620,Ananya,60,Hyderabad,Velachery,26,Baby Care Products,Electronics,20,2495,49900,Wallet,2350,38916,12625,3.09,39,1,2.8,6,11612,0
+C000621,Ira,40,Pune,Chromepet,21,Personal Care Items,Fruits,9,4717,42453,NetBanking,2582,70282,10084,3.46,13,15,2.4,5,17388,0
+C000622,Vihaan,56,Delhi,Adyar,23,"Rice, Dal, Cooking Oil",Personal Care,38,3515,133570,UPI,8665,18593,1908,10.66,45,12,2.1,10,4621,0
+C000623,Krishna,39,Hyderabad,Porur,41,Electronics Accessories,Dairy,19,594,11286,Card,12125,15605,2246,2.54,21,13,1,0,6547,0
+C000624,Ananya,28,Bangalore,Chromepet,4,Baby Care Products,Snacks,9,3147,28323,COD,24405,73859,6372,6.83,69,2,3.9,0,17297,0
+C000625,Aarav,39,Pune,T Nagar,31,Snacks and Beverages,Fruits,12,7440,89280,COD,15571,36360,10815,11.48,53,3,2.2,4,7869,0
+C000626,Arjun,63,Delhi,Anna Nagar,32,"Milk, Bread, Eggs",Household,10,3431,34310,NetBanking,585,32792,19189,9.62,54,8,4.4,3,1294,0
+C000627,Nisha,57,Pune,Tambaram,5,Snacks and Beverages,Household,2,1161,2322,UPI,25191,21338,18561,14.13,70,11,2.9,8,15528,0
+C000628,Lakshmi,28,Delhi,Perungudi,60,Electronics Accessories,Fruits,12,3907,46884,NetBanking,4510,6817,7359,7.89,39,12,2.8,8,9225,0
+C000629,Arjun,50,Pune,T Nagar,2,"Rice, Dal, Cooking Oil",Bakery,15,4775,71625,COD,19911,20413,13774,1.32,32,7,1.5,10,11085,0
+C000630,Saanvi,63,Bangalore,Velachery,16,Frozen Foods,Household,15,3850,57750,COD,14588,17158,17976,7.04,25,4,3.4,10,16067,0
+C000631,Lakshmi,30,Hyderabad,OMR,10,Frozen Foods,Household,24,3129,75096,NetBanking,4600,22289,8945,7.23,14,14,3.9,4,12574,0
+C000632,Sai,28,Mumbai,Anna Nagar,49,Frozen Foods,Baby Care,17,2415,41055,NetBanking,11391,6026,4747,1.32,34,1,2.5,2,5715,0
+C000633,Rohan,64,Bangalore,Porur,5,Bakery Items,Snacks,6,3590,21540,COD,18558,67145,8097,10.37,28,15,2.9,1,18469,0
+C000634,Aishwarya,41,Chennai,Perungudi,55,Fruits and Vegetables,Snacks,11,2214,24354,COD,27666,52597,5724,14,10,12,4.5,0,10932,0
+C000635,Lakshmi,53,Mumbai,Velachery,13,Frozen Foods,Personal Care,14,740,10360,Wallet,17718,9252,4281,9.32,23,13,3.4,10,5519,0
+C000636,Ananya,57,Delhi,T Nagar,31,"Rice, Dal, Cooking Oil",Baby Care,34,7786,264724,Wallet,25681,56626,5971,0.64,65,11,3.1,6,11122,1
+C000637,Diya,25,Bangalore,T Nagar,14,Fruits and Vegetables,Electronics,2,3215,6430,Wallet,20320,42158,3654,9.25,60,6,2.2,7,16907,0
+C000638,Ira,36,Bangalore,Anna Nagar,36,Cleaning Supplies,Grocery,12,4760,57120,UPI,22379,35240,10372,6.44,52,1,1.4,8,5972,0
+C000639,Aishwarya,33,Hyderabad,Chromepet,47,Electronics Accessories,Baby Care,25,5618,140450,Card,1975,18512,3177,5.85,57,9,1.9,5,19820,0
+C000640,Sneha,64,Chennai,Tambaram,59,Frozen Foods,Baby Care,1,7770,7770,Card,1653,56432,18511,1.74,15,7,4,4,17580,0
+C000641,Ishaan,46,Delhi,Velachery,38,Fruits and Vegetables,Baby Care,11,1679,18469,COD,12860,69268,18624,10.39,28,2,4.2,10,7413,0
+C000642,Priya,41,Bangalore,OMR,15,Personal Care Items,Snacks,30,6550,196500,Card,20924,40710,9587,2.42,35,9,1.3,1,1008,1
+C000643,Sneha,62,Delhi,T Nagar,31,Snacks and Beverages,Electronics,31,7778,241118,Wallet,14728,25475,5432,11.26,16,12,1.5,8,8392,1
+C000644,Sneha,62,Delhi,Mylapore,38,"Milk, Bread, Eggs",Electronics,3,1899,5697,NetBanking,10205,63888,6778,8.62,53,13,2.2,2,19327,0
+C000645,Sneha,41,Chennai,Adyar,24,Bakery Items,Fruits,14,4215,59010,UPI,18188,29651,4078,12.95,46,4,1.4,7,19953,0
+C000646,Saanvi,65,Chennai,Perungudi,45,Cleaning Supplies,Bakery,27,7114,192078,UPI,3980,3472,975,4.46,69,11,4.8,2,19433,1
+C000647,Arjun,64,Bangalore,Velachery,8,Cleaning Supplies,Snacks,39,3801,148239,Wallet,13379,42061,4857,10.48,41,2,3.4,0,4410,0
+C000648,Saanvi,30,Mumbai,Porur,32,Baby Care Products,Bakery,22,5938,130636,NetBanking,1662,55539,17549,12.7,28,6,4.3,5,17516,0
+C000649,Rohan,58,Hyderabad,Tambaram,55,Frozen Foods,Bakery,17,1958,33286,NetBanking,493,28413,17529,12.68,32,7,1.7,7,1210,0
+C000650,Ananya,44,Delhi,Porur,9,Bakery Items,Snacks,21,5643,118503,Wallet,2204,54098,654,8.16,35,3,2.6,5,6164,0
+C000651,Aarav,49,Chennai,Porur,52,Bakery Items,Household,25,7103,177575,COD,6410,72806,5924,4.21,25,12,1.2,4,6852,1
+C000652,Ishaan,34,Delhi,Adyar,38,Snacks and Beverages,Snacks,20,3647,72940,Wallet,20636,29136,17441,1.49,60,14,4.6,6,3829,0
+C000653,Vihaan,46,Pune,Mylapore,21,Fruits and Vegetables,Household,4,722,2888,UPI,18872,42131,14875,2.63,14,9,4.5,8,2772,0
+C000654,Arjun,57,Bangalore,Mylapore,11,"Rice, Dal, Cooking Oil",Personal Care,35,4562,159670,COD,24897,20935,8671,12.65,44,14,2.3,9,19047,1
+C000655,Saanvi,38,Hyderabad,Perungudi,53,Fruits and Vegetables,Baby Care,22,4627,101794,Card,25008,60965,16846,14.79,59,11,3.7,8,17795,0
+C000656,Rohan,48,Pune,Chromepet,26,Fruits and Vegetables,Beverages,9,2749,24741,UPI,25435,53577,9514,7.29,19,5,4,1,16670,0
+C000657,Aarav,57,Mumbai,Mylapore,53,"Milk, Bread, Eggs",Personal Care,14,1175,16450,UPI,3880,38095,4956,9.94,24,14,3.3,0,17527,0
+C000658,Lakshmi,42,Chennai,Perungudi,52,Personal Care Items,Grocery,30,6136,184080,Card,4600,11390,16044,3.6,58,12,5,8,4109,1
+C000659,Saanvi,23,Delhi,OMR,9,Baby Care Products,Fruits,24,3616,86784,Wallet,27300,14924,11990,13.2,18,4,1.3,7,2383,0
+C000660,Ishaan,51,Chennai,OMR,51,"Rice, Dal, Cooking Oil",Bakery,37,4232,156584,UPI,10704,78145,15935,7.54,12,9,3.3,9,8701,1
+C000661,Aishwarya,46,Bangalore,Velachery,11,"Rice, Dal, Cooking Oil",Electronics,19,6587,125153,UPI,25963,33783,14023,5.19,49,1,4.3,7,7183,0
+C000662,Saanvi,53,Chennai,Porur,54,"Milk, Bread, Eggs",Snacks,24,4184,100416,UPI,15519,48160,14326,14.58,23,6,1.2,3,2802,0
+C000663,Aishwarya,65,Chennai,Chromepet,46,"Milk, Bread, Eggs",Grocery,16,4502,72032,COD,5590,9758,7958,7.07,26,14,2.8,1,6418,0
+C000664,Karthik,45,Bangalore,OMR,51,Fruits and Vegetables,Grocery,13,4918,63934,NetBanking,26436,61313,11213,5.07,22,0,4.8,10,17301,0
+C000665,Priya,40,Delhi,Velachery,5,Cleaning Supplies,Household,29,4122,119538,Card,13085,32425,10745,4.03,27,15,2.2,10,8986,0
+C000666,Aishwarya,18,Delhi,Perungudi,15,Frozen Foods,Electronics,39,6657,259623,UPI,21570,64474,743,2.11,53,3,1.9,5,14116,1
+C000667,Arjun,26,Pune,Anna Nagar,10,Electronics Accessories,Snacks,39,7722,301158,UPI,14427,64446,2212,8.02,59,10,1.7,9,13907,1
+C000668,Aarav,42,Pune,Mylapore,4,Fruits and Vegetables,Fruits,35,2118,74130,UPI,7532,28028,2510,13.9,13,8,4.4,5,8454,0
+C000669,Priya,42,Delhi,Mylapore,53,Electronics Accessories,Personal Care,24,6472,155328,UPI,28319,55125,2166,8.28,13,6,1.5,3,6277,1
+C000670,Sai,48,Hyderabad,Tambaram,55,Frozen Foods,Fruits,33,2805,92565,NetBanking,14386,36268,9424,3.74,14,6,1.7,5,7046,0
+C000671,Krishna,48,Hyderabad,Porur,54,Fruits and Vegetables,Household,9,2499,22491,COD,8907,76174,13343,13.45,37,13,3.4,2,17853,0
+C000672,Lakshmi,54,Mumbai,Mylapore,57,"Milk, Bread, Eggs",Baby Care,9,4104,36936,UPI,11810,25911,12197,11.96,12,5,4.1,7,14137,0
+C000673,Ira,59,Chennai,Chromepet,6,Baby Care Products,Snacks,31,5746,178126,COD,28618,62691,243,5.55,68,1,1.2,8,17210,1
+C000674,Krishna,25,Mumbai,Adyar,46,Bakery Items,Fruits,20,518,10360,NetBanking,11464,67642,13817,11.21,29,4,3.6,9,15876,0
+C000675,Vihaan,52,Mumbai,Chromepet,24,"Rice, Dal, Cooking Oil",Snacks,37,4108,151996,UPI,6782,18981,5638,8.46,17,4,2.8,2,12620,1
+C000676,Reyansh,49,Chennai,Porur,34,"Milk, Bread, Eggs",Grocery,34,6850,232900,COD,11774,14353,11382,1.6,41,3,3.5,9,13934,1
+C000677,Rohan,32,Mumbai,Anna Nagar,6,Frozen Foods,Household,11,1712,18832,Wallet,22300,36694,6086,8.1,65,7,2.4,3,12772,0
+C000678,Nisha,24,Hyderabad,Mylapore,55,Baby Care Products,Fruits,2,4122,8244,UPI,3268,42853,1675,6.63,27,2,3.5,3,6400,0
+C000679,Ishaan,33,Bangalore,Tambaram,43,Personal Care Items,Grocery,25,816,20400,NetBanking,27580,79519,239,5.21,70,8,4.3,2,5991,0
+C000680,Ishaan,60,Pune,Chromepet,23,Fruits and Vegetables,Personal Care,40,667,26680,UPI,24670,37226,3315,1.57,30,3,3.7,10,15485,0
+C000681,Meera,32,Hyderabad,OMR,28,Fruits and Vegetables,Electronics,35,1365,47775,NetBanking,11941,23926,6328,6.18,29,2,4,9,1421,0
+C000682,Rohan,57,Delhi,Porur,16,Electronics Accessories,Fruits,5,2962,14810,NetBanking,22288,53624,7500,1.4,28,2,4.4,5,17065,0
+C000683,Krishna,26,Chennai,Mylapore,23,Frozen Foods,Personal Care,26,5331,138606,Wallet,5041,26338,17826,13.76,28,6,4.3,6,655,0
+C000684,Priya,39,Chennai,OMR,2,Baby Care Products,Household,38,6960,264480,UPI,15413,34466,5173,0.73,27,15,3.1,10,14629,1
+C000685,Krishna,35,Bangalore,Perungudi,43,Fruits and Vegetables,Grocery,27,5967,161109,Wallet,18133,40336,15333,3.97,25,13,2,3,12720,1
+C000686,Saanvi,33,Pune,Tambaram,29,Baby Care Products,Fruits,29,3500,101500,UPI,423,76256,9075,6.73,12,5,3.5,1,19722,0
+C000687,Aarav,42,Pune,Tambaram,40,Snacks and Beverages,Baby Care,19,2320,44080,COD,21539,62273,9855,1.41,29,7,2.7,1,881,0
+C000688,Vihaan,38,Hyderabad,Adyar,8,Frozen Foods,Beverages,36,1934,69624,Wallet,1962,5287,12683,2.81,38,1,4.8,5,9754,0
+C000689,Diya,26,Bangalore,Tambaram,9,Electronics Accessories,Dairy,16,5382,86112,Wallet,14643,41490,19316,4.69,24,7,3.8,1,1309,0
+C000690,Aditya,61,Hyderabad,Mylapore,10,Fruits and Vegetables,Bakery,33,3790,125070,Card,22519,24620,16910,14.77,38,14,4.7,7,15654,0
+C000691,Rohan,46,Hyderabad,Adyar,55,Personal Care Items,Grocery,4,4836,19344,NetBanking,6137,1351,1783,8.57,47,11,2.9,10,4073,0
+C000692,Ira,35,Chennai,Tambaram,10,"Milk, Bread, Eggs",Household,17,1715,29155,UPI,12786,38289,13728,8.06,64,8,2.4,5,3602,0
+C000693,Rohan,26,Pune,Anna Nagar,14,Cleaning Supplies,Beverages,18,524,9432,UPI,696,10891,3706,2.95,11,8,3.1,1,1662,0
+C000694,Lakshmi,55,Chennai,T Nagar,41,Snacks and Beverages,Grocery,28,5138,143864,Card,22641,13136,6824,14.25,11,9,1.2,1,9801,0
+C000695,Karthik,27,Bangalore,Adyar,57,Electronics Accessories,Dairy,30,6938,208140,NetBanking,18125,28641,8241,12.27,46,13,1.3,3,1431,1
+C000696,Ishaan,53,Pune,OMR,49,"Milk, Bread, Eggs",Personal Care,39,4645,181155,Wallet,2103,7092,16784,6.28,33,3,3.2,10,18240,1
+C000697,Vihaan,34,Chennai,Adyar,51,Baby Care Products,Baby Care,30,5970,179100,Card,808,42495,7200,5.02,32,13,3.7,4,9043,1
+C000698,Sai,31,Mumbai,Velachery,20,Personal Care Items,Grocery,31,4816,149296,Wallet,11424,71058,7265,13.6,70,9,1.1,5,8357,0
+C000699,Aishwarya,41,Pune,Velachery,57,Baby Care Products,Snacks,11,2163,23793,UPI,19879,17109,17834,8.8,58,14,4.2,8,3559,0
+C000700,Meera,49,Hyderabad,Tambaram,32,Electronics Accessories,Personal Care,13,6230,80990,NetBanking,10933,23744,9419,11.49,70,4,3.8,10,14135,0
+C000701,Priya,45,Delhi,Tambaram,32,Frozen Foods,Snacks,34,3457,117538,UPI,24043,23112,5342,7.64,41,13,4,4,14797,0
+C000702,Lakshmi,35,Hyderabad,Adyar,16,Baby Care Products,Electronics,4,5059,20236,Card,540,3966,4738,11.26,39,12,2,8,7839,0
+C000703,Sai,36,Bangalore,Velachery,30,Frozen Foods,Dairy,28,4548,127344,NetBanking,5720,52816,6394,5.26,56,4,2.5,3,9221,0
+C000704,Saanvi,25,Bangalore,T Nagar,16,"Milk, Bread, Eggs",Electronics,8,2134,17072,UPI,2592,5456,13334,9.49,32,6,1.8,0,3890,0
+C000705,Ira,38,Delhi,Anna Nagar,49,Baby Care Products,Fruits,5,5632,28160,UPI,19965,66508,5829,2.05,43,5,4.2,10,167,0
+C000706,Karthik,39,Hyderabad,Velachery,58,Electronics Accessories,Beverages,8,5994,47952,COD,25164,58152,15326,7.08,57,1,4.9,5,4820,0
+C000707,Sneha,18,Pune,Porur,21,Frozen Foods,Dairy,33,5509,181797,UPI,1591,16849,10157,11.3,21,11,1.1,5,542,1
+C000708,Saanvi,64,Delhi,Perungudi,33,Baby Care Products,Snacks,24,3666,87984,NetBanking,29899,34413,17369,11.98,21,14,3.3,9,9641,0
+C000709,Meera,50,Bangalore,Perungudi,53,Bakery Items,Bakery,4,5034,20136,Card,24071,66491,14474,9.58,18,15,1.9,8,5215,0
+C000710,Karthik,52,Mumbai,Anna Nagar,54,"Milk, Bread, Eggs",Snacks,4,4139,16556,NetBanking,17197,51369,9844,6.77,40,2,4.2,3,5816,0
+C000711,Meera,47,Pune,Anna Nagar,43,Frozen Foods,Household,27,5945,160515,Card,12276,2268,3991,0.73,30,9,2.1,2,16744,1
+C000712,Diya,50,Mumbai,Tambaram,48,"Rice, Dal, Cooking Oil",Beverages,31,821,25451,Wallet,5669,39144,5736,12.11,30,6,4,5,2796,0
+C000713,Reyansh,36,Pune,Anna Nagar,51,Frozen Foods,Personal Care,3,1912,5736,Card,3739,23873,3796,4.01,25,14,1.5,10,265,0
+C000714,Priya,52,Chennai,Tambaram,7,"Rice, Dal, Cooking Oil",Personal Care,16,5047,80752,UPI,20892,29383,9219,8.46,64,12,3.9,8,7136,0
+C000715,Aishwarya,44,Bangalore,T Nagar,21,Frozen Foods,Dairy,15,7161,107415,NetBanking,22518,51207,16620,10.75,48,2,3.4,3,4662,0
+C000716,Priya,64,Hyderabad,Porur,12,Electronics Accessories,Bakery,18,4422,79596,UPI,5020,20787,14678,5.88,61,15,2.6,0,3227,0
+C000717,Ira,58,Delhi,Chromepet,29,Electronics Accessories,Dairy,18,6812,122616,COD,7155,32128,9495,8.21,25,12,2.1,4,11282,0
+C000718,Reyansh,53,Hyderabad,Mylapore,31,Personal Care Items,Snacks,12,7771,93252,Card,5975,63603,19455,6.95,51,0,3.2,9,14441,0
+C000719,Arjun,51,Delhi,Perungudi,52,Cleaning Supplies,Bakery,23,927,21321,COD,2010,20152,15709,8.17,39,10,4.6,10,15485,0
+C000720,Arjun,20,Chennai,T Nagar,27,Personal Care Items,Bakery,4,5327,21308,Card,17387,24552,11064,2.71,55,3,1.4,10,7377,0
+C000721,Reyansh,36,Bangalore,Chromepet,2,"Milk, Bread, Eggs",Fruits,29,6317,183193,Card,9470,7224,16879,4.8,63,15,2.6,3,6475,1
+C000722,Priya,21,Hyderabad,Tambaram,30,Frozen Foods,Beverages,32,3517,112544,NetBanking,25541,10301,6283,7.55,33,14,1.5,8,4323,0
+C000723,Meera,20,Hyderabad,OMR,33,Cleaning Supplies,Dairy,19,4126,78394,UPI,16637,73465,5347,14.23,20,4,1.8,10,16558,0
+C000724,Reyansh,32,Hyderabad,OMR,27,Snacks and Beverages,Household,18,1566,28188,Card,7163,55131,15055,10.68,45,10,3.4,6,2464,0
+C000725,Ananya,39,Bangalore,Anna Nagar,24,Personal Care Items,Electronics,1,3101,3101,Card,19767,1816,6051,6.36,47,1,3,1,13206,0
+C000726,Reyansh,30,Pune,Velachery,33,Personal Care Items,Beverages,32,3643,116576,Card,29105,7596,8604,7.24,45,4,3.5,1,11147,0
+C000727,Aishwarya,37,Mumbai,Velachery,22,Electronics Accessories,Dairy,23,3941,90643,UPI,4998,76124,7597,8.76,62,6,4.4,9,6492,0
+C000728,Ira,64,Pune,Anna Nagar,57,Frozen Foods,Household,11,3028,33308,Wallet,23565,64619,13842,7.19,26,5,2.2,1,10194,0
+C000729,Priya,37,Delhi,OMR,4,Frozen Foods,Baby Care,17,7384,125528,Wallet,8184,22511,11880,12.93,43,7,1.8,9,19025,0
+C000730,Ishaan,37,Delhi,OMR,48,Fruits and Vegetables,Snacks,15,7296,109440,UPI,2440,52066,15617,0.71,32,14,2.9,10,18790,0
+C000731,Diya,24,Bangalore,Porur,45,Bakery Items,Dairy,9,6866,61794,Card,12332,46399,5301,4.21,42,14,4.9,4,15354,0
+C000732,Meera,57,Chennai,Mylapore,12,Frozen Foods,Baby Care,38,4729,179702,UPI,16306,62916,8296,1.27,29,0,4.8,10,18784,1
+C000733,Diya,55,Hyderabad,OMR,52,"Milk, Bread, Eggs",Household,35,4895,171325,Wallet,8100,69989,7085,14.49,10,14,1.2,4,2903,1
+C000734,Meera,26,Pune,Velachery,45,Electronics Accessories,Dairy,15,6343,95145,NetBanking,26176,34804,4027,9.44,43,2,4.6,3,19219,0
+C000735,Saanvi,29,Chennai,Adyar,37,Fruits and Vegetables,Household,17,4869,82773,COD,24692,71760,7394,6.15,43,10,2,0,18533,0
+C000736,Reyansh,31,Chennai,Perungudi,20,Personal Care Items,Baby Care,10,3851,38510,NetBanking,14796,17581,19383,5.03,54,12,3.1,8,12609,0
+C000737,Priya,43,Bangalore,Anna Nagar,21,Snacks and Beverages,Personal Care,33,4329,142857,UPI,12120,47017,11753,12.18,38,14,4.6,9,13833,0
+C000738,Ira,58,Mumbai,Velachery,13,"Rice, Dal, Cooking Oil",Baby Care,8,5545,44360,NetBanking,24633,8478,7691,14.68,18,8,2.2,6,10019,0
+C000739,Saanvi,55,Pune,OMR,52,Personal Care Items,Personal Care,9,4417,39753,Wallet,15450,2474,3432,11.87,36,11,1.2,6,10585,0
+C000740,Sai,27,Mumbai,Tambaram,4,Snacks and Beverages,Dairy,30,4223,126690,Wallet,20211,74687,6575,3.6,53,9,2.1,3,1791,0
+C000741,Vihaan,62,Delhi,Porur,60,Cleaning Supplies,Household,27,3887,104949,UPI,24119,55762,12783,7.18,62,8,4.9,0,15518,0
+C000742,Sneha,25,Mumbai,Chromepet,32,Personal Care Items,Grocery,12,2568,30816,Wallet,13092,13056,11085,13.17,26,12,4.5,10,18330,0
+C000743,Ishaan,46,Mumbai,Chromepet,16,Frozen Foods,Baby Care,6,1909,11454,Wallet,14975,78172,11571,13.28,58,9,2.7,10,2792,0
+C000744,Meera,35,Chennai,Adyar,43,Fruits and Vegetables,Baby Care,11,6521,71731,NetBanking,17449,46197,12815,2.78,57,9,4.3,10,15481,0
+C000745,Sai,52,Hyderabad,Anna Nagar,5,Personal Care Items,Grocery,14,4753,66542,NetBanking,1014,58292,4713,1,51,12,5,3,7675,0
+C000746,Karthik,64,Delhi,Adyar,47,Personal Care Items,Personal Care,16,1412,22592,Card,19228,2522,16337,14.63,56,13,1.7,0,14804,0
+C000747,Sai,44,Mumbai,Mylapore,13,Personal Care Items,Household,28,1916,53648,Card,26526,8532,19021,11.07,22,9,3.6,8,18683,0
+C000748,Karthik,41,Pune,T Nagar,55,Fruits and Vegetables,Household,39,2319,90441,Wallet,19753,46442,15590,3.64,17,10,5,8,12879,0
+C000749,Lakshmi,52,Hyderabad,Chromepet,51,Bakery Items,Household,38,4772,181336,NetBanking,29891,37573,7848,10.39,33,5,3,1,16052,1
+C000750,Arjun,45,Delhi,Anna Nagar,7,Cleaning Supplies,Personal Care,35,4086,143010,UPI,5648,10260,280,3.69,16,10,3.2,6,19291,0
+C000751,Vihaan,30,Mumbai,OMR,42,"Rice, Dal, Cooking Oil",Electronics,32,4552,145664,UPI,1108,64735,17338,4.5,67,15,1.5,3,6096,0
+C000752,Rohan,19,Delhi,Perungudi,22,Cleaning Supplies,Dairy,33,6396,211068,COD,7262,63558,2964,13.5,28,3,4.7,10,7372,1
+C000753,Reyansh,32,Pune,Velachery,28,Electronics Accessories,Grocery,20,6926,138520,NetBanking,1685,4230,4525,7.47,36,7,2.1,10,17570,0
+C000754,Lakshmi,18,Bangalore,Chromepet,9,Fruits and Vegetables,Baby Care,7,6414,44898,NetBanking,21098,54525,17424,11,20,7,2.7,9,34,0
+C000755,Karthik,46,Pune,Mylapore,26,"Milk, Bread, Eggs",Electronics,31,2186,67766,NetBanking,10951,3530,6600,14.18,28,11,2.7,4,4239,0
+C000756,Ira,21,Mumbai,Tambaram,24,Snacks and Beverages,Bakery,34,3937,133858,UPI,18914,52709,19771,0.87,31,6,3,10,11282,0
+C000757,Ananya,55,Chennai,Tambaram,55,Frozen Foods,Grocery,31,7271,225401,NetBanking,14910,21349,9928,13.06,47,14,3.3,3,2236,1
+C000758,Arjun,58,Hyderabad,Porur,24,Baby Care Products,Bakery,33,4101,135333,Wallet,6972,66353,596,13.65,12,6,1.7,7,14650,0
+C000759,Priya,39,Pune,Perungudi,27,Bakery Items,Bakery,9,6057,54513,Wallet,12688,27708,1634,14.83,49,3,2.7,8,1781,0
+C000760,Diya,51,Pune,Porur,37,Frozen Foods,Bakery,36,3008,108288,NetBanking,10871,20145,16871,12.37,38,2,4.1,3,11661,0
+C000761,Priya,39,Chennai,OMR,28,Cleaning Supplies,Baby Care,38,4683,177954,Wallet,1478,52143,4190,0.77,46,7,4.4,4,1904,1
+C000762,Arjun,22,Pune,OMR,50,Baby Care Products,Dairy,26,5823,151398,Wallet,13562,62081,16082,11.93,47,12,3.7,3,16326,1
+C000763,Krishna,56,Delhi,Perungudi,54,"Rice, Dal, Cooking Oil",Fruits,2,3131,6262,UPI,2195,40990,11752,3.35,23,4,3,7,4905,0
+C000764,Ishaan,47,Hyderabad,Velachery,34,Frozen Foods,Household,38,4699,178562,NetBanking,10565,21504,13495,8.64,49,11,4.5,8,16309,1
+C000765,Lakshmi,59,Hyderabad,Velachery,45,Baby Care Products,Dairy,5,3265,16325,UPI,255,43225,359,4.58,38,14,1.3,4,8031,0
+C000766,Aarav,51,Delhi,T Nagar,40,Personal Care Items,Personal Care,15,7260,108900,Wallet,10330,32840,15589,14.62,14,14,2.9,7,3332,0
+C000767,Aditya,28,Delhi,OMR,27,Cleaning Supplies,Beverages,25,6790,169750,Card,4964,64828,18407,1.74,41,9,3.2,7,11513,1
+C000768,Diya,48,Mumbai,OMR,37,Baby Care Products,Grocery,31,6347,196757,Card,15071,24045,9489,5.3,61,3,1.3,1,8732,1
+C000769,Karthik,42,Pune,Velachery,21,Cleaning Supplies,Beverages,31,3083,95573,UPI,14676,43360,16937,2.19,33,14,2.7,1,18607,0
+C000770,Diya,48,Pune,Chromepet,3,Fruits and Vegetables,Dairy,5,2392,11960,NetBanking,3558,18208,9764,11.51,54,12,3,7,8626,0
+C000771,Ira,24,Mumbai,Anna Nagar,58,Fruits and Vegetables,Grocery,29,7868,228172,NetBanking,22140,67598,4460,9.29,67,8,3.7,4,5951,1
+C000772,Karthik,43,Hyderabad,Adyar,43,"Rice, Dal, Cooking Oil",Baby Care,15,3400,51000,NetBanking,15647,48198,2408,9.57,37,9,1.1,1,15557,0
+C000773,Diya,26,Mumbai,OMR,35,Fruits and Vegetables,Bakery,37,7183,265771,Card,24505,42152,13799,8.47,66,12,3.4,1,8906,1
+C000774,Arjun,62,Mumbai,T Nagar,5,Fruits and Vegetables,Beverages,5,7264,36320,COD,1151,15945,10774,14.09,56,5,4.5,8,10444,0
+C000775,Karthik,49,Chennai,OMR,3,Snacks and Beverages,Baby Care,11,6543,71973,COD,25270,22859,7083,10.37,39,6,5,1,4899,0
+C000776,Lakshmi,22,Chennai,Velachery,51,"Rice, Dal, Cooking Oil",Household,27,6223,168021,COD,7349,52784,9840,4.74,29,15,2.1,2,9759,1
+C000777,Arjun,54,Bangalore,T Nagar,55,"Rice, Dal, Cooking Oil",Personal Care,14,4414,61796,COD,5519,18834,16756,9.84,48,6,4.9,5,17238,0
+C000778,Ira,42,Bangalore,Adyar,50,"Rice, Dal, Cooking Oil",Baby Care,11,3140,34540,COD,14405,36067,18684,8.54,19,14,5,5,5515,0
+C000779,Aishwarya,61,Delhi,Mylapore,51,Baby Care Products,Beverages,30,2368,71040,COD,28231,44672,2486,6.88,44,11,3.3,10,18812,0
+C000780,Ishaan,43,Pune,Velachery,51,Bakery Items,Grocery,26,6208,161408,UPI,9790,20486,7730,1.5,20,2,1.2,8,8724,1
+C000781,Rohan,40,Pune,Adyar,54,Baby Care Products,Snacks,19,1737,33003,NetBanking,17743,57596,3371,4.94,24,3,1.5,1,10851,0
+C000782,Nisha,64,Hyderabad,Mylapore,14,Baby Care Products,Personal Care,4,7885,31540,NetBanking,15334,39599,5640,8.15,37,13,1.4,3,5609,0
+C000783,Arjun,63,Delhi,Porur,13,Bakery Items,Electronics,9,2597,23373,UPI,2034,46242,18982,11.46,14,6,4,1,19789,0
+C000784,Karthik,21,Pune,Mylapore,44,"Milk, Bread, Eggs",Bakery,14,4354,60956,UPI,18388,18025,7630,14.02,58,1,2.2,3,15205,0
+C000785,Reyansh,35,Bangalore,Adyar,55,Frozen Foods,Household,12,907,10884,COD,8394,14639,19465,2.7,14,13,1.4,3,4655,0
+C000786,Karthik,19,Mumbai,Adyar,28,"Rice, Dal, Cooking Oil",Dairy,3,4337,13011,Card,27563,9436,4365,12.04,19,9,4.2,0,9677,0
+C000787,Sai,38,Hyderabad,Mylapore,46,Frozen Foods,Grocery,7,6783,47481,COD,10573,22988,14235,7.52,53,6,2.9,6,17871,0
+C000788,Ishaan,63,Pune,T Nagar,18,"Milk, Bread, Eggs",Bakery,33,6035,199155,Card,1149,14661,2723,13.15,68,11,4.7,5,6523,1
+C000789,Karthik,59,Bangalore,Chromepet,30,"Rice, Dal, Cooking Oil",Personal Care,30,7577,227310,NetBanking,29393,38469,13881,2.42,28,4,3.2,9,3909,1
+C000790,Arjun,49,Pune,Tambaram,25,Electronics Accessories,Snacks,1,2594,2594,Wallet,14283,67993,6980,12.48,51,13,2.9,9,7892,0
+C000791,Ira,18,Pune,Perungudi,26,"Rice, Dal, Cooking Oil",Electronics,11,1109,12199,NetBanking,17343,73102,5258,11.05,51,8,4.6,1,7057,0
+C000792,Diya,30,Pune,OMR,18,Fruits and Vegetables,Electronics,14,3351,46914,NetBanking,1478,55771,9975,8.97,48,13,1.6,7,17052,0
+C000793,Diya,49,Chennai,Adyar,30,Electronics Accessories,Personal Care,5,615,3075,UPI,25762,49660,2098,2.82,38,1,4.6,2,9561,0
+C000794,Ananya,62,Bangalore,Chromepet,33,Electronics Accessories,Beverages,38,5099,193762,Card,1685,42662,2274,3.83,46,12,3,3,10942,1
+C000795,Sneha,18,Hyderabad,Porur,30,Snacks and Beverages,Grocery,23,1100,25300,NetBanking,22111,29073,17612,9.87,14,14,3.5,2,2486,0
+C000796,Lakshmi,34,Pune,Porur,55,Bakery Items,Baby Care,2,3860,7720,Wallet,17084,39641,3364,13.04,44,1,3.7,8,9875,0
+C000797,Lakshmi,24,Hyderabad,Perungudi,52,Electronics Accessories,Fruits,21,5098,107058,NetBanking,4973,21069,9542,11.42,62,14,2.5,9,8823,0
+C000798,Aditya,50,Pune,Adyar,11,"Milk, Bread, Eggs",Beverages,20,7234,144680,NetBanking,24437,11006,18928,7.07,43,3,4.3,4,9497,0
+C000799,Ira,50,Pune,Mylapore,18,Baby Care Products,Bakery,16,7201,115216,Wallet,22490,1821,3638,14.15,45,13,4,8,17409,0
+C000800,Karthik,45,Hyderabad,Adyar,1,Snacks and Beverages,Beverages,25,2054,51350,COD,5658,64381,13216,7.68,26,6,2.5,4,5818,0
+C000801,Nisha,32,Bangalore,Tambaram,12,Electronics Accessories,Fruits,39,5126,199914,UPI,16385,72757,6327,1.29,35,8,4.3,0,4321,1
+C000802,Priya,55,Hyderabad,Chromepet,8,Frozen Foods,Beverages,21,3922,82362,COD,28089,76584,1467,4.69,50,8,2,2,18441,0
+C000803,Sneha,64,Mumbai,OMR,14,Fruits and Vegetables,Baby Care,22,5732,126104,Card,12683,12923,14585,10.57,29,1,4.6,5,8692,0
+C000804,Karthik,41,Bangalore,Tambaram,45,"Milk, Bread, Eggs",Dairy,7,7020,49140,COD,1862,28342,1299,5.6,10,11,1,7,4560,0
+C000805,Aarav,50,Hyderabad,OMR,8,Bakery Items,Bakery,20,5122,102440,UPI,10597,65743,2992,13.13,25,9,4.7,1,3087,0
+C000806,Lakshmi,25,Pune,Porur,2,Cleaning Supplies,Dairy,39,2693,105027,COD,13661,23049,12121,4.5,52,14,3.8,9,19763,0
+C000807,Lakshmi,49,Pune,Porur,53,Baby Care Products,Dairy,24,4472,107328,Wallet,15343,64493,19894,13.47,43,12,1.7,8,9427,0
+C000808,Ananya,47,Mumbai,Chromepet,20,Baby Care Products,Beverages,31,2185,67735,COD,16136,33539,10064,5.58,21,3,2.2,7,15052,0
+C000809,Aishwarya,29,Pune,Mylapore,51,Baby Care Products,Electronics,36,6288,226368,Wallet,18225,21260,8093,1.46,56,3,1.9,2,296,1
+C000810,Vihaan,62,Pune,Chromepet,23,Personal Care Items,Snacks,18,1387,24966,NetBanking,15539,39409,2325,11.32,11,10,3.1,5,12842,0
+C000811,Lakshmi,60,Delhi,Adyar,16,Cleaning Supplies,Fruits,39,7674,299286,NetBanking,3058,79940,10763,7.05,13,13,4.1,7,16030,1
+C000812,Aishwarya,31,Hyderabad,Anna Nagar,13,Bakery Items,Bakery,33,3349,110517,NetBanking,3080,36289,4631,7.8,29,15,3.3,6,4419,0
+C000813,Karthik,23,Chennai,Perungudi,53,Bakery Items,Snacks,36,1243,44748,COD,11678,2512,17468,13.68,63,0,4.4,3,1205,0
+C000814,Meera,33,Delhi,Mylapore,39,"Rice, Dal, Cooking Oil",Fruits,19,7277,138263,UPI,21781,14762,5482,6.11,55,5,4.2,9,8119,0
+C000815,Ira,51,Mumbai,Porur,48,Electronics Accessories,Household,32,654,20928,UPI,4588,21253,3223,14.34,34,3,4.1,2,12021,0
+C000816,Priya,47,Hyderabad,Tambaram,58,Cleaning Supplies,Fruits,26,1896,49296,NetBanking,28892,69875,93,11.18,41,10,3.1,3,19637,0
+C000817,Aarav,56,Mumbai,Anna Nagar,8,"Rice, Dal, Cooking Oil",Dairy,34,4779,162486,NetBanking,7987,21405,180,10.11,68,5,1.7,2,3318,1
+C000818,Arjun,61,Chennai,Anna Nagar,36,"Milk, Bread, Eggs",Household,21,2325,48825,Card,433,40752,13609,14.26,35,5,1.8,1,9843,0
+C000819,Ananya,36,Delhi,Tambaram,32,"Milk, Bread, Eggs",Personal Care,10,1228,12280,NetBanking,15689,24352,1320,2.77,64,12,1.8,7,4219,0
+C000820,Reyansh,22,Pune,Perungudi,5,"Milk, Bread, Eggs",Fruits,39,5892,229788,Card,25814,65441,313,9.56,67,7,2.8,6,8789,1
+C000821,Vihaan,48,Chennai,Porur,48,"Milk, Bread, Eggs",Fruits,4,5432,21728,Card,29398,14122,1929,10.7,53,14,3.1,2,9824,0
+C000822,Saanvi,42,Bangalore,Perungudi,60,Baby Care Products,Snacks,40,7367,294680,Card,15800,57776,17753,7.84,43,9,2.1,4,1355,1
+C000823,Aditya,42,Hyderabad,Porur,37,Electronics Accessories,Bakery,2,7594,15188,COD,13589,76443,13922,14.29,30,0,3.6,0,6622,0
+C000824,Diya,19,Chennai,Anna Nagar,27,Cleaning Supplies,Personal Care,30,3225,96750,NetBanking,3144,76080,1596,2.68,38,7,1.8,10,16670,0
+C000825,Saanvi,20,Pune,Tambaram,28,Baby Care Products,Snacks,9,798,7182,Wallet,24513,15300,8823,12.44,43,1,2.2,4,9908,0
+C000826,Ira,35,Delhi,Chromepet,36,Personal Care Items,Electronics,22,4270,93940,Wallet,16694,65075,18608,6.62,12,4,2.4,4,1040,0
+C000827,Meera,43,Hyderabad,Velachery,43,Electronics Accessories,Fruits,4,3572,14288,Card,9029,43862,5061,2.81,39,8,2.2,7,2621,0
+C000828,Karthik,59,Bangalore,Mylapore,2,"Rice, Dal, Cooking Oil",Snacks,5,7382,36910,COD,21367,66428,238,9.23,67,15,1.6,3,5054,0
+C000829,Sai,46,Pune,Adyar,8,Baby Care Products,Beverages,27,4571,123417,Wallet,20196,72530,14084,0.88,12,11,1.1,9,10855,0
+C000830,Meera,59,Bangalore,Tambaram,24,"Rice, Dal, Cooking Oil",Fruits,5,3527,17635,NetBanking,19572,55629,16595,12.06,50,11,1,1,4169,0
+C000831,Reyansh,58,Bangalore,Adyar,42,"Milk, Bread, Eggs",Household,16,6160,98560,NetBanking,20576,43876,2321,1.18,37,12,4.5,8,13481,0
+C000832,Priya,44,Mumbai,Tambaram,51,Fruits and Vegetables,Grocery,38,2667,101346,NetBanking,4756,3661,712,1.15,29,11,3.5,4,19892,0
+C000833,Aditya,46,Bangalore,Anna Nagar,19,Frozen Foods,Fruits,6,3656,21936,Wallet,2341,54076,11417,8.55,66,9,4.9,1,1609,0
+C000834,Karthik,54,Mumbai,Velachery,26,Personal Care Items,Electronics,35,689,24115,Card,7949,77563,13661,9.94,70,5,2.4,0,4498,0
+C000835,Aishwarya,54,Delhi,Tambaram,51,Baby Care Products,Dairy,35,6483,226905,UPI,28605,36832,8429,9.88,15,10,4.1,5,1311,1
+C000836,Diya,56,Hyderabad,Mylapore,36,Snacks and Beverages,Beverages,27,3987,107649,UPI,24410,5120,13804,4.55,12,0,4.6,9,12374,0
+C000837,Ira,23,Chennai,Velachery,50,Personal Care Items,Personal Care,22,5031,110682,UPI,25560,5742,16963,6.45,44,7,2.2,10,7540,0
+C000838,Sai,38,Chennai,Tambaram,30,Cleaning Supplies,Household,36,2710,97560,NetBanking,28100,1396,8848,0.5,53,10,3.1,10,10100,0
+C000839,Ananya,53,Chennai,Velachery,10,"Rice, Dal, Cooking Oil",Snacks,39,6423,250497,UPI,25905,52978,11412,5.83,29,14,3.3,5,18981,1
+C000840,Aishwarya,62,Hyderabad,OMR,50,Electronics Accessories,Grocery,6,874,5244,UPI,14676,34751,11375,12.54,30,10,2.8,2,6204,0
+C000841,Ishaan,33,Hyderabad,Anna Nagar,45,Snacks and Beverages,Snacks,40,1549,61960,NetBanking,19095,38079,18446,2.75,36,6,4.3,6,8849,0
+C000842,Arjun,43,Pune,OMR,11,Frozen Foods,Electronics,21,2517,52857,NetBanking,11743,35383,15629,0.73,50,3,4.8,4,14098,0
+C000843,Sai,59,Mumbai,Porur,31,Baby Care Products,Snacks,34,4409,149906,NetBanking,20999,33741,7899,8.67,48,6,1.2,0,9545,0
+C000844,Vihaan,63,Mumbai,Tambaram,53,Electronics Accessories,Dairy,12,6781,81372,COD,4248,70040,11283,7.2,70,15,3.4,6,16650,0
+C000845,Reyansh,20,Mumbai,Perungudi,15,Frozen Foods,Baby Care,5,6378,31890,Wallet,15639,55880,19429,13.33,40,11,4.9,0,10593,0
+C000846,Arjun,18,Mumbai,Porur,51,Fruits and Vegetables,Beverages,38,6417,243846,COD,13709,61631,4900,9.79,36,1,1.9,4,9550,1
+C000847,Arjun,34,Hyderabad,Velachery,23,Bakery Items,Grocery,34,2125,72250,Card,6287,37160,12016,9.21,69,14,1.8,2,17959,0
+C000848,Ananya,33,Delhi,Velachery,8,"Milk, Bread, Eggs",Baby Care,40,568,22720,Card,21016,49455,421,4.11,39,11,4.7,8,13133,0
+C000849,Sneha,31,Delhi,Adyar,54,Personal Care Items,Fruits,22,3918,86196,UPI,5403,47400,10191,6.2,23,7,4,8,17867,0
+C000850,Krishna,32,Pune,Velachery,37,Frozen Foods,Baby Care,28,6475,181300,COD,26331,7414,8021,5.31,68,3,2.6,8,17983,1
+C000851,Priya,54,Delhi,Porur,54,Baby Care Products,Bakery,7,5450,38150,COD,14101,24450,1454,7.58,63,13,1.6,10,14210,0
+C000852,Ananya,20,Bangalore,T Nagar,58,Snacks and Beverages,Grocery,7,5615,39305,NetBanking,23860,21134,500,8.54,54,9,1,3,18030,0
+C000853,Nisha,60,Chennai,OMR,57,Cleaning Supplies,Baby Care,2,2304,4608,Wallet,21867,6392,19180,1.94,60,10,1.3,0,7521,0
+C000854,Saanvi,33,Hyderabad,Mylapore,9,Fruits and Vegetables,Bakery,1,1596,1596,Card,4664,58889,18474,10.79,60,3,2.5,3,8985,0
+C000855,Aditya,22,Bangalore,Porur,26,Electronics Accessories,Fruits,6,7109,42654,Wallet,20655,17098,11868,9.83,21,15,3.4,10,1991,0
+C000856,Diya,27,Pune,Anna Nagar,39,Personal Care Items,Baby Care,6,2245,13470,COD,21204,31445,14098,10.77,24,8,3.4,9,2094,0
+C000857,Ananya,34,Mumbai,Perungudi,1,"Rice, Dal, Cooking Oil",Fruits,35,1109,38815,Wallet,10746,4270,2696,6.95,49,1,3.3,7,4971,0
+C000858,Krishna,36,Bangalore,Anna Nagar,4,"Milk, Bread, Eggs",Fruits,13,941,12233,Wallet,1353,20409,11822,8.77,23,7,1.1,9,9672,0
+C000859,Priya,40,Hyderabad,Adyar,16,Frozen Foods,Grocery,23,6215,142945,Wallet,24416,50239,18401,12.43,16,14,2.4,7,4674,0
+C000860,Nisha,24,Pune,T Nagar,2,"Rice, Dal, Cooking Oil",Snacks,29,1189,34481,COD,10773,47334,8703,6.71,39,6,3.9,0,18278,0
+C000861,Ishaan,18,Delhi,Porur,6,Baby Care Products,Electronics,17,4378,74426,UPI,15732,45482,6733,4.24,53,11,4.1,5,10406,0
+C000862,Priya,55,Hyderabad,Mylapore,45,Frozen Foods,Fruits,36,7250,261000,COD,24575,16470,1532,6.35,11,9,4.3,10,634,1
+C000863,Sneha,21,Mumbai,Velachery,60,Personal Care Items,Bakery,11,2941,32351,UPI,2711,1541,16172,4.9,54,9,4.1,6,4500,0
+C000864,Aishwarya,19,Hyderabad,T Nagar,30,Fruits and Vegetables,Electronics,14,3074,43036,Wallet,27425,50026,1167,4.43,32,11,1.6,1,6222,0
+C000865,Arjun,62,Mumbai,Anna Nagar,39,Cleaning Supplies,Snacks,3,5741,17223,Card,8241,4946,16012,11.64,23,6,2.7,0,13007,0
+C000866,Rohan,57,Pune,Velachery,46,Baby Care Products,Electronics,15,1964,29460,NetBanking,5836,54437,3810,8.57,68,4,3.6,1,2339,0
+C000867,Sneha,51,Pune,Mylapore,4,Cleaning Supplies,Beverages,22,1797,39534,UPI,29850,4222,8324,7.13,53,10,4.1,0,8256,0
+C000868,Krishna,20,Hyderabad,Chromepet,16,Personal Care Items,Electronics,14,3326,46564,COD,24122,48467,18516,10.72,31,11,2.2,8,9697,0
+C000869,Aditya,29,Pune,T Nagar,56,"Rice, Dal, Cooking Oil",Household,40,5268,210720,Wallet,27479,49209,6449,12.23,64,9,4.7,8,2609,1
+C000870,Aishwarya,43,Hyderabad,OMR,21,"Milk, Bread, Eggs",Beverages,5,5321,26605,COD,24184,49762,1539,2.55,42,10,1.3,4,15266,0
+C000871,Priya,57,Pune,Perungudi,55,"Rice, Dal, Cooking Oil",Household,34,1598,54332,Wallet,19750,18850,9884,9.16,10,13,1.7,0,2518,0
+C000872,Priya,36,Bangalore,Perungudi,22,Personal Care Items,Bakery,3,3150,9450,UPI,11781,50108,5046,14.22,55,4,1.7,9,7757,0
+C000873,Karthik,53,Delhi,Porur,39,Electronics Accessories,Fruits,31,4543,140833,Wallet,25453,40903,1794,1.87,22,13,4.7,0,2785,0
+C000874,Sneha,20,Hyderabad,T Nagar,29,"Milk, Bread, Eggs",Personal Care,34,6856,233104,Wallet,25151,21944,19597,14.92,68,7,1.5,2,18781,1
+C000875,Aarav,45,Hyderabad,OMR,47,"Rice, Dal, Cooking Oil",Snacks,9,7423,66807,NetBanking,12967,28448,1858,1.36,36,14,2.7,3,1970,0
+C000876,Arjun,53,Hyderabad,Velachery,60,Personal Care Items,Fruits,19,6652,126388,Wallet,701,38506,6133,9.57,64,2,3.9,0,5696,0
+C000877,Rohan,59,Mumbai,Porur,14,Frozen Foods,Dairy,33,7784,256872,Wallet,8047,33415,4080,3.6,53,11,2.4,4,9967,1
+C000878,Ananya,18,Mumbai,Anna Nagar,11,Snacks and Beverages,Beverages,31,2037,63147,NetBanking,19460,22952,14928,11.85,65,10,1.4,1,1433,0
+C000879,Sai,32,Delhi,Tambaram,39,"Rice, Dal, Cooking Oil",Beverages,21,2612,54852,NetBanking,10104,7237,3416,2.3,19,10,1.8,7,13697,0
+C000880,Saanvi,58,Bangalore,Mylapore,43,Electronics Accessories,Fruits,12,1274,15288,Wallet,3114,55239,10174,3.42,35,3,3.4,0,685,0
+C000881,Rohan,32,Delhi,Tambaram,22,Electronics Accessories,Dairy,6,5361,32166,Card,23493,75661,13214,6.88,70,4,4.8,0,1760,0
+C000882,Saanvi,53,Delhi,Adyar,2,Snacks and Beverages,Beverages,20,1759,35180,UPI,19793,73286,2627,4.03,22,6,2.2,7,2022,0
+C000883,Krishna,38,Delhi,Anna Nagar,34,Cleaning Supplies,Personal Care,31,5286,163866,COD,27169,65840,11666,12.27,55,4,3.6,4,9346,1
+C000884,Nisha,26,Delhi,Porur,50,"Rice, Dal, Cooking Oil",Dairy,7,4746,33222,Wallet,11639,19793,3175,5.61,46,1,1,8,16548,0
+C000885,Ishaan,64,Chennai,Porur,59,Electronics Accessories,Household,9,2512,22608,UPI,23552,17450,11660,14.52,44,12,4.9,5,13649,0
+C000886,Rohan,36,Hyderabad,Anna Nagar,22,Bakery Items,Household,17,2936,49912,Card,15129,51714,5976,3.74,62,12,4.7,10,14657,0
+C000887,Ishaan,64,Delhi,OMR,15,Frozen Foods,Bakery,21,1168,24528,Card,10916,12752,1817,12.65,21,0,3.7,10,5597,0
+C000888,Nisha,21,Hyderabad,Tambaram,9,Personal Care Items,Dairy,33,6430,212190,NetBanking,19351,16878,9612,14.68,19,15,3.4,8,14526,1
+C000889,Aishwarya,27,Chennai,Adyar,16,"Rice, Dal, Cooking Oil",Personal Care,6,948,5688,COD,22715,27083,5762,5.25,48,7,1.9,10,9297,0
+C000890,Aditya,36,Mumbai,Perungudi,35,Fruits and Vegetables,Dairy,29,7189,208481,UPI,24154,56438,19024,4.67,24,3,2.5,2,15300,1
+C000891,Arjun,48,Mumbai,OMR,59,Fruits and Vegetables,Electronics,15,5936,89040,Card,20513,25552,9789,3.57,34,3,4.1,5,7054,0
+C000892,Ira,44,Chennai,Velachery,37,"Milk, Bread, Eggs",Grocery,40,7123,284920,Card,27262,12953,17793,9.42,36,13,3.9,8,8463,1
+C000893,Arjun,64,Bangalore,T Nagar,2,Frozen Foods,Fruits,13,6075,78975,Card,23571,40787,13110,2.57,63,13,3.7,0,2829,0
+C000894,Ananya,35,Chennai,Porur,26,Electronics Accessories,Household,25,622,15550,UPI,16643,39363,15400,7.97,31,7,1.9,5,14185,0
+C000895,Ananya,39,Mumbai,Tambaram,37,Baby Care Products,Electronics,36,4729,170244,COD,25410,20623,69,2.54,34,7,1.2,8,19301,1
+C000896,Sai,41,Mumbai,Porur,15,Bakery Items,Personal Care,7,3643,25501,NetBanking,4886,10659,5700,12.11,14,5,3.4,5,17136,0
+C000897,Ira,48,Mumbai,Velachery,51,Personal Care Items,Personal Care,2,5189,10378,Card,17057,20140,7898,9.84,47,3,1.1,4,12538,0
+C000898,Rohan,46,Bangalore,T Nagar,33,Baby Care Products,Bakery,8,4807,38456,Card,27327,58294,4595,5.21,58,13,3.6,0,16950,0
+C000899,Saanvi,41,Delhi,Velachery,42,Personal Care Items,Household,4,1362,5448,NetBanking,11494,67352,9249,2.57,24,12,1.4,5,10058,0
+C000900,Krishna,58,Chennai,T Nagar,4,Personal Care Items,Personal Care,1,5893,5893,Card,1227,42581,1098,1.16,31,8,2.7,5,13466,0
+C000901,Lakshmi,43,Chennai,Mylapore,16,Baby Care Products,Bakery,23,3052,70196,UPI,9160,12674,4589,0.98,31,3,4,3,18351,0
+C000902,Karthik,53,Delhi,Anna Nagar,15,Frozen Foods,Household,38,4244,161272,NetBanking,29833,44868,4480,0.75,42,0,2.6,2,9595,1
+C000903,Reyansh,46,Pune,Velachery,39,Personal Care Items,Household,17,4876,82892,UPI,15696,22616,4656,2.3,50,1,2.5,6,5660,0
+C000904,Nisha,48,Chennai,Velachery,40,"Milk, Bread, Eggs",Household,3,2654,7962,NetBanking,10075,16157,19191,1.29,57,9,4.6,6,11295,0
+C000905,Saanvi,63,Pune,T Nagar,54,Fruits and Vegetables,Grocery,22,774,17028,Card,20447,60446,16548,9.47,69,10,3.6,8,5882,0
+C000906,Saanvi,58,Delhi,Tambaram,20,Snacks and Beverages,Snacks,36,1414,50904,NetBanking,738,72292,15641,1.93,35,12,2,2,14730,0
+C000907,Ishaan,48,Pune,Porur,50,"Rice, Dal, Cooking Oil",Grocery,7,1472,10304,Wallet,18413,34724,12330,4.58,59,2,2.7,0,13474,0
+C000908,Arjun,62,Pune,Chromepet,16,Cleaning Supplies,Bakery,23,531,12213,Card,26990,15752,18799,10.56,58,6,4.4,4,17899,0
+C000909,Ira,27,Delhi,Mylapore,42,Fruits and Vegetables,Fruits,35,6233,218155,Wallet,26706,34522,16300,9.46,67,11,4.5,1,12034,1
+C000910,Aishwarya,19,Hyderabad,Adyar,36,Electronics Accessories,Household,22,4299,94578,UPI,7934,76842,11888,1.43,19,3,3.2,0,16328,0
+C000911,Diya,43,Bangalore,Perungudi,46,Baby Care Products,Personal Care,29,4564,132356,Card,28962,16000,16516,5.15,19,6,4.9,3,18883,0
+C000912,Sneha,22,Pune,Chromepet,53,Fruits and Vegetables,Snacks,35,1966,68810,UPI,20710,68605,4191,2.26,54,5,4.3,6,5989,0
+C000913,Sai,64,Pune,Velachery,34,Electronics Accessories,Electronics,5,5733,28665,COD,14185,6572,7753,13.24,65,1,4.1,6,17615,0
+C000914,Vihaan,49,Delhi,Tambaram,52,"Milk, Bread, Eggs",Snacks,28,5716,160048,Card,1413,25904,11228,13.56,26,6,3.6,1,3668,1
+C000915,Vihaan,30,Pune,Anna Nagar,32,"Milk, Bread, Eggs",Electronics,8,1399,11192,COD,9416,41989,14713,6.35,64,6,1.2,7,8825,0
+C000916,Diya,34,Bangalore,T Nagar,5,Baby Care Products,Dairy,38,2718,103284,UPI,8372,25555,1367,1.73,36,0,1.6,8,9072,0
+C000917,Ira,32,Mumbai,OMR,57,Electronics Accessories,Fruits,2,1985,3970,UPI,16767,67035,2849,7.74,29,13,4.2,10,6917,0
+C000918,Vihaan,23,Delhi,Tambaram,46,Baby Care Products,Household,37,3097,114589,Card,23916,42048,6408,10.68,37,11,3.7,6,9129,0
+C000919,Vihaan,63,Chennai,Anna Nagar,60,Bakery Items,Electronics,36,3197,115092,Card,5833,64751,15485,1.06,29,6,4.2,0,18837,0
+C000920,Reyansh,19,Mumbai,Chromepet,35,Electronics Accessories,Personal Care,38,1242,47196,COD,20828,74625,1854,0.73,52,4,1.6,7,6418,0
+C000921,Aditya,54,Mumbai,Anna Nagar,8,Fruits and Vegetables,Beverages,39,1341,52299,Card,23386,76177,3597,2.93,69,8,3.1,2,12224,0
+C000922,Aditya,31,Chennai,OMR,27,"Rice, Dal, Cooking Oil",Personal Care,5,4937,24685,UPI,2131,69893,8559,14.99,30,6,4.4,2,8689,0
+C000923,Saanvi,61,Pune,Porur,6,Fruits and Vegetables,Household,17,3102,52734,Wallet,22294,21805,3855,13.89,43,13,2.2,3,12414,0
+C000924,Saanvi,62,Delhi,Velachery,8,Baby Care Products,Beverages,25,1744,43600,UPI,24173,76298,19152,8.94,18,7,4.7,7,1351,0
+C000925,Arjun,52,Hyderabad,Porur,58,Baby Care Products,Snacks,1,2998,2998,COD,20406,77974,15535,10.36,39,10,2.4,10,186,0
+C000926,Aarav,54,Chennai,Tambaram,20,Electronics Accessories,Fruits,22,7577,166694,COD,19513,45880,12958,6.03,53,11,3.1,1,855,1
+C000927,Priya,63,Pune,T Nagar,55,"Milk, Bread, Eggs",Baby Care,36,3113,112068,COD,16249,14324,3789,5.6,15,15,3.6,10,5719,0
+C000928,Reyansh,25,Mumbai,Porur,17,Cleaning Supplies,Electronics,28,1071,29988,Card,18062,8966,6487,2.36,67,10,3.5,8,5899,0
+C000929,Karthik,56,Pune,Anna Nagar,17,Personal Care Items,Grocery,32,2369,75808,Wallet,24983,44049,5732,5.79,51,4,3.4,4,8282,0
+C000930,Reyansh,41,Chennai,T Nagar,47,Frozen Foods,Dairy,10,2263,22630,UPI,29254,68009,17481,8.73,20,1,4.7,6,7057,0
+C000931,Aarav,65,Mumbai,OMR,13,"Rice, Dal, Cooking Oil",Personal Care,26,1106,28756,NetBanking,10682,33890,14155,7.35,68,13,1.3,5,8172,0
+C000932,Krishna,47,Delhi,Anna Nagar,6,Cleaning Supplies,Dairy,25,5018,125450,COD,1223,29791,511,2.11,43,0,2.2,0,11788,0
+C000933,Aarav,18,Delhi,OMR,54,Cleaning Supplies,Household,26,7589,197314,Card,24142,21068,8055,10.6,25,6,2.6,7,8222,1
+C000934,Saanvi,60,Pune,Perungudi,29,Bakery Items,Grocery,40,4814,192560,COD,20498,16288,359,7.18,24,12,3.9,0,2012,1
+C000935,Meera,19,Chennai,Velachery,54,Frozen Foods,Personal Care,38,2336,88768,Wallet,27916,33374,12553,2,58,2,1.6,4,7021,0
+C000936,Aarav,26,Bangalore,Porur,10,Snacks and Beverages,Electronics,22,5675,124850,Wallet,7972,7068,19761,14.71,24,0,2.3,4,185,0
+C000937,Aishwarya,40,Hyderabad,T Nagar,28,Frozen Foods,Grocery,37,2179,80623,Card,4320,27980,5119,11.22,45,3,3.2,1,18276,0
+C000938,Saanvi,38,Chennai,Anna Nagar,34,Personal Care Items,Household,3,5291,15873,COD,19260,60370,5567,10.62,33,6,2.5,6,15371,0
+C000939,Ananya,21,Hyderabad,T Nagar,29,Bakery Items,Fruits,9,5059,45531,NetBanking,5058,43915,12050,9.01,17,13,2.2,7,9334,0
+C000940,Krishna,51,Chennai,Adyar,53,Baby Care Products,Dairy,18,7071,127278,NetBanking,6203,66207,703,3.11,70,9,3.4,1,1135,0
+C000941,Aishwarya,48,Mumbai,Chromepet,43,Electronics Accessories,Dairy,7,3821,26747,Wallet,10933,29450,18910,14.83,49,3,4.6,9,11022,0
+C000942,Rohan,35,Bangalore,OMR,29,"Rice, Dal, Cooking Oil",Dairy,20,5859,117180,Card,4124,57703,11088,9.05,65,13,3.5,5,5760,0
+C000943,Nisha,41,Mumbai,Porur,42,"Rice, Dal, Cooking Oil",Baby Care,25,6261,156525,COD,5274,30294,9329,14.95,44,10,2.1,9,10803,1
+C000944,Nisha,18,Chennai,Perungudi,57,Bakery Items,Bakery,9,923,8307,NetBanking,7860,6980,14111,1.9,40,10,2.6,5,12925,0
+C000945,Saanvi,26,Bangalore,Porur,15,Personal Care Items,Baby Care,10,3158,31580,NetBanking,14258,70879,18857,8.64,54,0,2.3,1,9330,0
+C000946,Sneha,19,Mumbai,Perungudi,48,Cleaning Supplies,Dairy,21,3677,77217,UPI,29448,37273,11177,13.61,39,11,3,9,18377,0
+C000947,Sai,46,Delhi,Tambaram,52,"Rice, Dal, Cooking Oil",Fruits,24,4164,99936,UPI,16721,75345,8105,7.38,62,0,2.2,9,19696,0
+C000948,Krishna,37,Pune,Tambaram,39,Electronics Accessories,Baby Care,4,2362,9448,Wallet,19884,38726,6736,7.63,43,2,3.2,10,11853,0
+C000949,Ishaan,30,Mumbai,Anna Nagar,55,"Milk, Bread, Eggs",Bakery,36,2193,78948,NetBanking,20213,67019,8456,1.31,21,8,2.7,1,14243,0
+C000950,Diya,21,Mumbai,OMR,42,Fruits and Vegetables,Household,8,1685,13480,Card,29473,35765,15322,13.27,53,10,4.4,1,13699,0
+C000951,Meera,23,Hyderabad,Mylapore,48,Electronics Accessories,Bakery,5,7797,38985,NetBanking,28685,50311,10906,5.32,12,6,2.3,3,1193,0
+C000952,Aarav,65,Mumbai,Porur,40,"Milk, Bread, Eggs",Personal Care,9,6147,55323,NetBanking,26024,8170,8073,4.17,70,8,4.8,2,3344,0
+C000953,Aarav,49,Delhi,Tambaram,29,Fruits and Vegetables,Beverages,40,2780,111200,NetBanking,11532,10512,8278,2.8,11,2,2.9,9,5760,0
+C000954,Ishaan,44,Mumbai,Velachery,31,Fruits and Vegetables,Grocery,7,1701,11907,NetBanking,21741,34518,14374,1.27,29,9,1.5,7,7738,0
+C000955,Meera,64,Pune,Mylapore,57,Electronics Accessories,Bakery,13,6272,81536,Card,2022,72060,6837,13.22,16,8,1.7,6,852,0
+C000956,Rohan,23,Bangalore,Velachery,24,Electronics Accessories,Grocery,4,5129,20516,UPI,5884,38848,1880,6.24,14,5,4.2,6,3120,0
+C000957,Saanvi,24,Chennai,Chromepet,54,Bakery Items,Personal Care,20,1942,38840,COD,7662,67682,4610,6.09,24,12,3.9,0,5673,0
+C000958,Sneha,49,Chennai,T Nagar,5,"Rice, Dal, Cooking Oil",Beverages,21,4688,98448,Wallet,13973,68230,8124,8.35,11,14,3.8,4,8596,0
+C000959,Ananya,62,Bangalore,OMR,55,Fruits and Vegetables,Beverages,7,5088,35616,Card,10959,18949,7761,8.51,19,12,1.2,3,2071,0
+C000960,Aarav,56,Pune,Chromepet,57,Electronics Accessories,Household,23,5410,124430,UPI,14236,3747,7470,2.88,31,2,4.6,6,731,0
+C000961,Aarav,31,Delhi,Chromepet,47,Cleaning Supplies,Household,34,988,33592,Wallet,9571,72115,16919,2.33,49,13,3.6,9,15674,0
+C000962,Sneha,38,Bangalore,T Nagar,26,Bakery Items,Grocery,36,4792,172512,COD,16448,77555,7145,11.44,43,6,3.5,3,18835,1
+C000963,Nisha,18,Mumbai,Adyar,45,Snacks and Beverages,Dairy,3,5246,15738,Card,20833,74556,9245,6.54,19,7,4.6,3,6397,0
+C000964,Diya,64,Chennai,Tambaram,19,Snacks and Beverages,Fruits,22,7595,167090,Wallet,28651,49531,11634,9.38,50,12,5,10,17759,1
+C000965,Priya,30,Delhi,Velachery,60,Fruits and Vegetables,Personal Care,20,3494,69880,COD,22914,71939,13429,3.11,32,10,2.3,8,15525,0
+C000966,Meera,61,Pune,Mylapore,31,Fruits and Vegetables,Beverages,15,1377,20655,COD,17295,49440,7995,12.53,37,11,1.6,5,8178,0
+C000967,Karthik,50,Pune,Porur,5,Fruits and Vegetables,Snacks,37,2838,105006,Wallet,11908,25290,13606,0.87,51,9,3.2,1,18686,0
+C000968,Rohan,32,Mumbai,Perungudi,36,Frozen Foods,Bakery,6,3942,23652,COD,1419,56751,6927,14.85,51,3,1.4,5,19347,0
+C000969,Meera,44,Hyderabad,Perungudi,57,Electronics Accessories,Bakery,18,1981,35658,NetBanking,18291,37705,19283,12.26,36,9,3.2,10,1948,0
+C000970,Priya,58,Bangalore,Velachery,26,Frozen Foods,Household,6,7770,46620,Wallet,1081,13477,16590,7.69,44,13,4.2,10,5604,0
+C000971,Diya,25,Bangalore,Tambaram,30,"Milk, Bread, Eggs",Snacks,17,6782,115294,Card,28963,35097,10312,2.7,68,5,3.3,6,16912,0
+C000972,Krishna,50,Chennai,Chromepet,47,Cleaning Supplies,Personal Care,22,5968,131296,Wallet,17861,12225,4020,1.69,57,1,3.2,7,7020,0
+C000973,Priya,60,Mumbai,Chromepet,19,"Rice, Dal, Cooking Oil",Baby Care,27,2832,76464,COD,18880,75597,12751,6.5,46,13,2,5,13407,0
+C000974,Aarav,42,Hyderabad,OMR,12,Bakery Items,Electronics,32,2139,68448,COD,12726,8199,13009,13.68,69,13,2.9,7,7195,0
+C000975,Aarav,48,Hyderabad,Mylapore,36,Cleaning Supplies,Baby Care,16,4017,64272,Card,11757,4058,16970,12.53,13,7,1.5,0,9897,0
+C000976,Lakshmi,54,Chennai,Tambaram,59,Cleaning Supplies,Beverages,24,4626,111024,Card,23623,10467,9859,4.6,42,13,3.3,8,17454,0
+C000977,Rohan,62,Hyderabad,Velachery,22,Frozen Foods,Baby Care,11,3243,35673,Card,9876,39554,18038,6.53,50,5,1.8,5,12596,0
+C000978,Rohan,28,Chennai,Perungudi,1,Frozen Foods,Dairy,20,5238,104760,Card,13845,70656,1962,8.44,52,9,2.7,5,3927,0
+C000979,Sneha,41,Hyderabad,Porur,46,Electronics Accessories,Grocery,12,6551,78612,NetBanking,27785,28538,15944,4.92,14,5,1.5,1,9536,0
+C000980,Arjun,39,Bangalore,Perungudi,52,Electronics Accessories,Dairy,1,6788,6788,NetBanking,35,39708,12628,14.96,20,9,2.2,1,4135,0
+C000981,Aditya,29,Delhi,OMR,48,Personal Care Items,Grocery,13,5470,71110,Card,16557,60974,16917,1.08,42,6,2,3,9685,0
+C000982,Sneha,45,Hyderabad,Anna Nagar,42,Fruits and Vegetables,Fruits,6,7866,47196,NetBanking,22116,14212,7954,14.35,50,1,2.5,1,14180,0
+C000983,Ananya,42,Bangalore,Porur,16,"Rice, Dal, Cooking Oil",Fruits,18,5331,95958,Card,13765,44578,15240,10.4,23,10,2,1,4430,0
+C000984,Aditya,63,Mumbai,Adyar,21,"Rice, Dal, Cooking Oil",Bakery,19,5830,110770,UPI,5878,58670,4382,8.73,31,3,4.5,1,1097,0
+C000985,Sneha,54,Bangalore,T Nagar,29,Frozen Foods,Bakery,35,758,26530,UPI,5027,1461,13515,6.29,57,11,4.2,9,5671,0
+C000986,Lakshmi,40,Bangalore,Velachery,47,Fruits and Vegetables,Dairy,19,6121,116299,UPI,13828,52755,10177,1.66,43,14,4.3,1,14652,0
+C000987,Aishwarya,28,Chennai,Mylapore,52,Fruits and Vegetables,Snacks,33,5525,182325,Wallet,13746,26558,12809,14.93,31,9,1.2,6,6308,1
+C000988,Sai,53,Hyderabad,Anna Nagar,16,Personal Care Items,Grocery,12,3115,37380,COD,10455,36816,14861,1.14,19,9,3.1,0,17860,0
+C000989,Vihaan,57,Delhi,Tambaram,28,"Rice, Dal, Cooking Oil",Beverages,8,5498,43984,COD,20991,42783,16409,2.76,31,9,4.5,2,42,0
+C000990,Reyansh,20,Chennai,Tambaram,24,Fruits and Vegetables,Grocery,26,7119,185094,Wallet,18114,46374,17411,14.95,33,3,2.4,5,15173,1
+C000991,Karthik,62,Chennai,OMR,49,"Milk, Bread, Eggs",Bakery,30,3887,116610,Wallet,12107,56207,14156,7.65,15,11,1.9,0,7086,0
+C000992,Nisha,52,Pune,Tambaram,57,Fruits and Vegetables,Bakery,12,1303,15636,COD,5306,23880,6452,4.49,22,14,1.7,4,8711,0
+C000993,Ishaan,42,Mumbai,Anna Nagar,59,Baby Care Products,Electronics,3,2976,8928,COD,17719,11177,6080,6.68,28,9,1.3,5,12129,0
+C000994,Rohan,25,Delhi,Velachery,10,Electronics Accessories,Fruits,35,3709,129815,Card,9694,69048,19349,10.71,54,14,3.6,1,5507,0
+C000995,Ananya,43,Pune,Adyar,4,Frozen Foods,Household,40,7465,298600,NetBanking,14297,57316,18391,6.38,24,9,2.2,9,1530,1
+C000996,Aditya,53,Chennai,Adyar,57,Baby Care Products,Snacks,19,3046,57874,Card,10619,64185,5214,6.34,31,15,4.2,9,17546,0
+C000997,Ananya,51,Mumbai,T Nagar,49,Electronics Accessories,Grocery,32,1183,37856,UPI,26471,35653,10221,12.34,60,1,1.4,1,17114,0
+C000998,Ananya,52,Delhi,Velachery,3,Bakery Items,Personal Care,28,3871,108388,COD,8023,58904,9291,11.41,65,0,4.5,3,10039,0
+C000999,Nisha,65,Pune,Velachery,38,Personal Care Items,Bakery,40,6246,249840,COD,12493,4121,13438,3.75,35,7,3,1,12609,1
